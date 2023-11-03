@@ -1,0 +1,58 @@
+﻿
+@using SportsPro.Models
+@using SportsPro.Models.ViewModels
+
+@model IncidentViewModel
+@{
+     ViewData["title"] = "Get Technician";
+}
+
+<h1>Technician</h1>
+
+<form class="needs-validation"  asp-controller="Incident" asp-action="IncidentsList" method="post" novalidate>
+    <div class="form-group">
+        <label class="form-label" ><strong>Technician</strong></label>
+
+        <select  class="form-control"  
+                asp-items="@(
+                new SelectList(Model.Technicians, "TechnicianID", "Name", Model))" required>
+
+                <option value="">Select A Customer...</option>
+              
+ }
+
+        </select>
+        <span class="invalid-feedback" @* asp-validation-for="@ViewData["TechnicianID"]" *@> Please Select A Technician</span>
+     
+       
+    </div>
+
+    <input type="hidden">
+    <div class="mt-3">
+
+        <button class="btn btn-primary" type="submit" >Select</button>
+        <a class="btn btn-primary" asp-controller="Home" asp-action="Index">Cancel</a>
+
+    </div>
+
+</form>
+<script>
+    (() => {
+        'use strict'
+
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        const forms = document.querySelectorAll('.needs-validation')
+
+        // Loop over them and prevent submission
+        Array.from(forms).forEach(form => {
+            form.addEventListener('submit', event => {
+                if (!form.checkValidity()) {
+                    event.preventDefault()
+                    event.stopPropagation()
+                }
+
+                form.classList.add('was-validated')
+            }, false)
+        })
+    })()
+</script>

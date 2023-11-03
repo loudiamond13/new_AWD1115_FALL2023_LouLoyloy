@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W309Z6u4truY4O7Nr662vnrMuiOZZkpv3LL4/F5aQC00yvBOxzW7j8dQOUJbu6M0bgFO1iyv83HCEnlAV7LjKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\Labs\\5-1_TipCalculator\\TipCalculator\\TipCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diamo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\diamo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\diamo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\diamo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

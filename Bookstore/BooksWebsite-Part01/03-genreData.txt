@@ -1,0 +1,120 @@
+entity.HasData(
+	new Genre { 
+		GenreId = "actionandadventure",
+		Name    = "Action and Adventure"
+	},
+
+	new Genre { 
+		GenreId = "autobiographyandmemoir",
+		Name    = "Autobiography and Memoir"
+	},
+
+	new Genre { 
+		GenreId = "children",
+		Name    = "Children"
+	},
+
+	new Genre { 
+		GenreId = "classic",
+		Name    = "Classic"
+	},
+
+	new Genre { 
+		GenreId = "comingofage",
+		Name    = "Coming of Age"
+	},
+
+	new Genre { 
+		GenreId = "crimefiction",
+		Name    = "Crime Fiction"
+	},
+
+	new Genre { 
+		GenreId = "detectiveandmystery",
+		Name    = "Detective and Mystery"
+	},
+
+	new Genre { 
+		GenreId = "drama"
+		Name    = "Drama"
+	},
+
+	new Genre { 
+		GenreId = "dystopian",
+		Name    = "Dystopian"
+	},
+
+	new Genre { 
+		GenreId = "fairytale",
+		Name    = "Fairy Tale"
+	},
+
+	new Genre { 
+		GenreId = "fantasy",
+		Name    = "Fantasy"
+	},
+
+	new Genre { 
+		GenreId = "historicalfiction",
+		Name    = "Historical Fiction"
+	},
+
+	new Genre { 
+		GenreId = "horror",
+		Name    = "Horror"
+	},
+
+	new Genre { 
+		GenreId = "humor",
+		Name    = "Humor"
+	},
+
+	new Genre { 
+		GenreId = "literaryfiction",
+		Name    = "Literary Fiction"
+	},
+
+	new Genre { 
+		GenreId = "magicalrealism",
+		Name    = "Magical Realism"
+	},
+
+	new Genre { 
+		GenreId = "nonfiction",
+		Name    = "Non-Fiction"
+	},
+
+	new Genre { 
+		GenreId = "novella",
+		Name    = "Novella"
+	},
+
+	new Genre { 
+		GenreId = "philosophicalfiction",
+		Name    = "Philosophical Fiction"
+	},
+
+	new Genre { 
+		GenreId = "romance",
+		Name    = "Romance"
+	},
+
+	new Genre { 
+		GenreId = "sciencefiction",
+		Name    = "Science Fiction"
+	},
+
+	new Genre { 
+		GenreId = "selfhelp",
+		Name    = "Self-Help"
+	},
+
+	new Genre { 
+		GenreId = "suspenseandthriller",
+		Name    = "Suspense and Thriller"
+	},
+
+	new Genre { 
+		GenreId = "teenandyoungadult"
+		Name    = "Teen and Young Adult"
+	}

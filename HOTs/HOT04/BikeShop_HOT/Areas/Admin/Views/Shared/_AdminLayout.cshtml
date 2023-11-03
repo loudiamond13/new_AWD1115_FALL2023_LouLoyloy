@@ -1,0 +1,194 @@
+﻿@using BikeShop_HOT
+@using BikeShop_HOT.Models
+
+@{
+    // sets the selected menu into active and helps to navigate to certain area if needed
+    string ActiveNavMenu(string action, string? controller = null)
+    {
+        //gets the current area
+        string? AdminCurrentController = ViewContext.RouteData.Values["controller"]?.ToString();
+
+        //gets the current action
+        string? AdminCurrentAction = ViewContext.RouteData.Values["action"]?.ToString();
+
+        return (action == AdminCurrentAction && controller == AdminCurrentController) ? "active" : "";
+    }
+
+
+    string? message = TempData["message"]?.ToString();
+    string? subheader = TempData["subheader"]?.ToString();
+    string? deleteMSG = TempData["deleteMSG"]?.ToString();
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]  My Bike Shop - Admin Site</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="~/css/area.css" />
+    <link rel="stylesheet" href="~/BikeShop_HOT.styles.css" />
+</head>
+<body class="m-0">
+
+    <header>
+
+        <nav class=" navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-primary border-bottom box-shadow mb-3">
+
+            <a class=" mx-2 navbar-brand @ActiveNavMenu("Index")" 
+               asp-area="Admin" asp-controller="Home" asp-action="Index">The Bike Shop (Admin Site)</a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1 text-center justify-content-center">
+                    <li class="nav-item">
+                        <a class="nav-link  @ActiveNavMenu("Index","Home") "
+                           asp-action="Index" asp-area="Admin" asp-controller="Home" >
+                           Admin
+                       </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link @ActiveNavMenu("List","Product") @ActiveNavMenu("Add","Product")
+                        @ActiveNavMenu("Update","Product") @ActiveNavMenu("Delete","Product")"
+                           asp-area="Admin" asp-controller="Product" asp-action="List" asp-route-id="">
+                           Products
+                       </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link @ActiveNavMenu("List","Category") @ActiveNavMenu("Add","Category")
+                        @ActiveNavMenu("Update","Category") @ActiveNavMenu("Delete","Category")"
+                           asp-area="Admin" asp-controller="Category" asp-action="List">
+                           Categories
+                       </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link @ActiveNavMenu("List")"
+                           asp-area="" asp-controller="Home" asp-action="Index">
+                           Customer Site
+                       </a>
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+
+    </header>
+    <div class="container-fluid ">
+
+
+
+        <main role="main" class="pb-3 mb-4">
+            @if (!string.IsNullOrEmpty(deleteMSG))
+            {
+                <h2 class="rounded bg-light text-center pg-3 mb-1 alert-danger">@deleteMSG</h2>
+            }
+            @if (!string.IsNullOrEmpty(message))
+            {
+                <h2 id="msg" class=" rounded bg-light text-center p-2 alert-success mb-1">@message</h2>
+            } 
+            @if (!string.IsNullOrEmpty(subheader))
+            {
+                <h2 class="p-2 mb-1 text-center">@subheader</h2>
+            }
+            @RenderBody()
+
+        </main>
+    </div>
+
+    <footer class="text-center footer text-muted border-top ">
+        <div class="container ">
+            &copy; @DateTime.Now.Year - Lou Loyloy BikeShop HOT03
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        var messageTimer = setTimeout(function () {
+            $('#msg').hide();
+        }, 6000)
+    </script>
+
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@* @{
+    Layout = "_Layout";
+
+    string AdminAction (string action = "")
+    {
+        string? actn = ViewContext.RouteData.Values["action"]?.ToString();
+
+        return (action == actn) ? "active" : "";
+    }
+}
+
+
+
+
+<div class="container-fluid">
+    <div class="container">
+        @RenderSection("header") *@
+   @*  </div>
+
+    <ul class="nav nav-tabs my-4 mb-2">
+        <li class="nav-item">
+
+            <a class="nav-link  @AdminAction( "Home")"
+               asp-controller="Home"
+               asp-action="Index"
+               asp-area="Help">
+                Home
+            </a>
+        </li>
+
+        <li class="nav-item"> *@
+@* 
+            <a class="nav-link @ActiveNav("Tutorial")"
+               asp-controller="Tutorial"
+               asp-route-id="Page1"
+               asp-area="Help"
+               asp-action="">
+                Tutorial
+            </a> *@
+
+        </li>
+    </ul>
+
+    @RenderBody()
+</div>

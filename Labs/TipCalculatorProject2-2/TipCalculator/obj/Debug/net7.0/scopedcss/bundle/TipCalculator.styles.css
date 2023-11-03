@@ -1,0 +1,49 @@
+/* _content/TipCalculator/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-jmng2tus76] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-jmng2tus76] {
+  color: #0077cc;
+}
+
+.btn-primary[b-jmng2tus76] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-jmng2tus76], .nav-pills .show > .nav-link[b-jmng2tus76] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-jmng2tus76] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-jmng2tus76] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-jmng2tus76] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-jmng2tus76] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-jmng2tus76] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

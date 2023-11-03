@@ -1,0 +1,53 @@
+﻿@model List<Product>
+
+@{
+    ViewBag.Title = "Product Manager";
+}
+
+<h2>Product Manager</h2>
+
+
+@*Product Manager Page/View*@
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Code</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Release Date</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @*Display all the product data in a data*@
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProductCode</td>
+                <td>@product.Name</td>
+                <td>@product.YearlyPrice.ToString("c")</td>
+                <td>@product.ReleaseDate.ToShortDateString()</td>
+
+                @*Edit button for every product*@
+                <td>
+                    <a asp-action="Edit" asp-route-id=@product.ProductID
+                       class="btn btn-primary">Edit</a>
+                </td>
+
+                @*Delete button for every product*@
+                <td>
+                    <a asp-action="Delete" asp-route-id=@product.ProductID
+                       class="btn btn-primary">Delete</a>
+                </td>
+            </tr>
+
+        }
+
+    </tbody>
+
+</table>
+
+@*Add button *@
+<a asp-action="Add" class="mb-4 btn btn-primary">Add Product</a>

@@ -1,0 +1,23 @@
+﻿@model Category
+@{
+    ViewData["Title"] = ViewBag.Action + " Category - ";
+    TempData["subheader"] = ViewBag.Action + " Category";
+}
+
+<form class="mt-5" method="post" asp-controller="Category"  asp-area="Admin" asp-action="AddUpdate">
+    <div class="form-group mt-2">
+        <label asp-for="CategoryName"><strong>Category Name:</strong></label>
+
+        <input asp-for="CategoryName" class="form-control" />
+        <span class="text-danger" asp-validation-for="CategoryName"></span>
+    </div>
+
+    <input type="hidden" asp-for="CategoryID"/>
+    <button class="mt-2 btn btn-primary" type="submit">@ViewBag.Action</button>
+    <a class="mt-2 btn btn-primary" 
+        asp-area="Admin" 
+        asp-controller="Category" 
+        asp-action="List">
+        Cancel
+    </a>
+</form>

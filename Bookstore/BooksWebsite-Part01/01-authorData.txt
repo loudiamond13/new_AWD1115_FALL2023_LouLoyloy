@@ -1,0 +1,469 @@
+entity.HasData(
+	new Author { 
+		AuthorId  = 1,
+		FirstName = "Albert",
+		LastName  = "Camus"
+	},
+
+	new Author { 
+		AuthorId  = 2,
+		FirstName = "Alice",
+		LastName  = "Walker"
+	},
+
+	new Author { 
+		AuthorId  = 3,
+		FirstName = "Andrew",
+		LastName  = "Sean Greer"
+	},
+
+	new Author { 
+		AuthorId  = 4,
+		FirstName = "Andy",
+		LastName  = "Weir"
+	},
+
+	new Author { 
+		AuthorId  = 5,
+		FirstName = "Angie",
+		LastName  = "Thomas"
+	},
+
+	new Author { 
+		AuthorId  = 6,
+		FirstName = "Anna",
+		LastName  = "Todd"
+	},
+
+	new Author { 
+		AuthorId  = 7,
+		FirstName = "Anthony",
+		LastName  = "Burgess"
+	},
+
+	new Author { 
+		AuthorId  = 8,
+		FirstName = "Ayn",
+		LastName  = "Rand"
+	},
+
+	new Author { 
+		AuthorId  = 9,
+		FirstName = "Brian",
+		LastName  = "Stoker"
+	},
+
+	new Author { 
+		AuthorId  = 10,
+		FirstName = "Charles",
+		LastName  = "Dickens"
+	},
+
+	new Author { 
+		AuthorId  = 11,
+		FirstName = "Charlotte",
+		LastName  = "Bronte"
+	},
+
+	new Author { 
+		AuthorId  = 12,
+		FirstName = "Chimamanda",
+		LastName  = "Ngozi Adichie"
+	},
+
+	new Author { 
+		AuthorId  = 13,
+		FirstName = "Chinua",
+		LastName  = "Achebe"
+	},
+
+	new Author { 
+		AuthorId  = 14,
+		FirstName = "Cormac",
+		LastName  = "McCarthy"
+	},
+
+	new Author { 
+		AuthorId  = 15,
+		FirstName = "Dale",
+		LastName  = "Carnegie"
+	},
+
+	new Author { 
+		AuthorId  = 16,
+		FirstName = "Dan",
+		LastName  = "Brown"
+	},
+
+	new Author { 
+		AuthorId  = 17,
+		FirstName = "Daphne",
+		LastName  = "du Maurier"
+	},
+
+	new Author { 
+		AuthorId  = 18,
+		FirstName = "E.",
+		LastName  = "L. James"
+	},
+
+	new Author { 
+		AuthorId  = 19,
+		FirstName = "E.",
+		LastName  = "B. White"
+	},
+
+	new Author { 
+		AuthorId  = 20,
+		FirstName = "Elie",
+		LastName  = "Wiesel"
+	},
+
+	new Author { 
+		AuthorId  = 21,
+		FirstName = "Emily",
+		LastName  = "Bronte"
+	},
+
+	new Author { 
+		AuthorId  = 22,
+		FirstName = "Ernest",
+		LastName  = "Hemingway"
+	},
+
+	new Author { 
+		AuthorId  = 23,
+		FirstNamw = "F.",
+		LastName  = "Scott Fitzgerald"
+	},
+
+	new Author { 
+		AuthorId  = 24,
+		FirstName = "Frances",
+		LastName  = "Hodgson Burnett"
+	},
+
+	new Author { 
+		AuthorId  = 25,
+		FirstName = "Frank",
+		LastName  = "Herbert"
+	},
+
+	new Author { 
+		AuthorId  = 26,
+		FirstName = "Franz",
+		LastName  = "Kafka"
+	},
+
+	new Author { 
+		AuthorId  = 27,
+		FirstName = "Friedrich",
+		LastName  = "Nietzsche"
+	},
+
+	new Author { 
+		AuthorId  = 28,
+		FirstName = "Fyodor",
+		LastName  = "Dostoevsky"
+	},
+
+	new Author { 
+		AuthorId  = 29,
+		FirstName = "Gabriel",
+		LastName  = "Garcia Marquez"
+	},
+
+	new Author { 
+		AuthorId  = 30,
+		FirstName = "Gayle",
+		LastName  = "Forman"
+	},
+
+	new Author { 
+		AuthorId  = 31,
+		FirstName = "George",
+		LastName  = "Eliot"
+	},
+
+	new Author { 
+		AuthorId  = 32,
+		FirstName = "George",
+		LastName  = "Orwell"
+	},
+
+	new Author { 
+		AuthorId  = 33,
+		FirstName = "George",
+		LastName  = "R. R. Martin"
+	},
+
+	new Author { 
+		AuthorId  = 34,
+		FirstName = "H.",
+		LastName  = "G. Wells"
+	},
+
+	new Author { 
+		AuthorId  = 35,
+		FirstName = "Harper",
+		LastName  = "Lee"
+	},
+
+	new Author { 
+		AuthorId  = 36,
+		FirstName = "Henry",
+		LastName  = "David Thoreau"
+	},
+
+	new Author { 
+		AuthorId  = 37,
+		FirstName = "Isaac",
+		LastName  = "Asimov"
+	},
+
+	new Author { 
+		AuthorId  = 38,
+		FirstName = "J.",
+		LastName  = "K. Rowling"
+	},
+
+	new Author { 
+		AuthorId  = 39,
+		FirstName = "J.",
+		LastName  = "R. R. Tolkein"
+	},
+
+	new Author { 
+		AuthorId  = 40,
+		FirstName = "Jack",
+		LastName  = "London"
+	},
+
+	new Author { 
+		AuthorId  = 41,
+		FirstName = "Jackie",
+		LastName  = "Hill Perry"
+	},
+
+	new Author { 
+		AuthorId  = 42,
+		FirstName = "James",
+		LastName  = "Joyce"
+	},
+
+	new Author { 
+		AuthorId  = 43,
+		FirstName = "Jane",
+		LastName  = "Austen"
+	},
+
+	new Author { 
+		AuthorId  = 44,
+		FirstName = "Jerome",
+		LastName  = "David Salinger"
+	},
+
+	new Author { 
+		AuthorId  = 45,
+		FirstName = "John",
+		LastName  = "Boyne"
+	},
+
+	new Author { 
+		AuthorId  = 46,
+		FirstName = "John",
+		LastName  = "Green"
+	},
+
+	new Author { 
+		AuthorId  = 47,
+		FirstName = "John",
+		LastName  = "Steinbeck"
+	},
+
+	new Author { 
+		AuthorId  = 48,
+		FirstName = "Jules",
+		LastName  = "Verne"
+	},
+
+	new Author { 
+		AuthorId  = 49,
+		FirstName = "Kate",
+		LastName  = "Chopin"
+	},
+
+	new Author { 
+		AuthorId  = 50,
+		FirstName = "Kate",
+		LastName  = "DiCamillo"
+	},
+
+	new Author { 
+		AuthorId  = 51,
+		FirstName = "Katherine",
+		LastName  = "Paterson"
+	},
+
+	new Author { 
+		AuthorId  = 52,
+		FirstName = "Kurt",
+		LastName  = "Vonnegut"
+	},
+
+	new Author { 
+		AuthorId  = 53,
+		FirstName = "Lisa",
+		LastName  = "Wingate"
+	},
+
+	new Author { 
+		AuthorId  = 54,
+		FirstName = "Lois",
+		LastName  = "Lowry"
+	},
+
+	new Author { 
+		AuthorId  = 55,
+		FirstName = "Marcel",
+		LastName  = "Proust"
+	},
+
+	new Author { 
+		AuthorId  = 56,
+		FirstName = "Margaret",
+		LastName  = "Atwood"
+	},
+
+	new Author { 
+		AuthorId  = 57,
+		FirstName = "Margaret",
+		LastName  = "Mitchell"
+	},
+
+	new Author { 
+		AuthorId  = 58,
+		FirstName = "Markus",
+		LastName  = "Zusak"
+	},
+
+	new Author { 
+		AuthorId  = 59,
+		FirstName = "Michael",
+		LastName  = "Crichton"
+	},
+
+	new Author { 
+		AuthorId  = 60,
+		FirstName = "Miguel",
+		LastName  = "de Cervantes"
+	},
+
+	new Author { 
+		AuthorId  = 61,
+		FirstName = "Min",
+		LastName  = "Jin Lee"
+	},
+
+	new Author { 
+		AuthorId  = 62,
+		FirstName = "Naomi",
+		LastName  = "Alderman"
+	},
+
+	new Author { 
+		AuthorId  = 63,
+		FirstName = "Nathaniel",
+		LastName  = "Hawthorne"
+	},
+
+	new Author { 
+		AuthorId  = 64,
+		FirstName = "Neil",
+		LastName  = "Gaiman"
+	},
+
+	new Author { 
+		AuthorId  = 65,
+		FirstName = "Nicholas",
+		LastName  = "Sparks"
+	},
+
+	new Author { 
+		AuthorId  = 66,
+		FirstName = "Octavia",
+		LastName  = "E. Butler"
+	},
+
+	new Author { 
+		AuthorId  = 67,
+		FirstName = "Richard",
+		LastName  = "Matheson"
+	},
+
+	new Author { 
+		AuthorId  = 68,
+		FirstName = "Robert",
+		LastName  = "Louis Stevenson"
+	},
+
+	new Author { 
+		AuthorId  = 69,
+		FirstName = "S.",
+		LastName  = "E. Hinton"
+	},
+
+	new Author { 
+		AuthorId  = 70,
+		FirstName = "Sara",
+		LastName  = "Gruen"
+	},
+
+	new Author { 
+		AuthorId  = 71,
+		FirstName = "Stephen",
+		LastName  = "King"
+	},
+
+	new Author { 
+		AuthorId  = 72,
+		FirstName = "Suzanne",
+		LastName  = "Collins"
+
+	},
+
+	new Author { 
+		AuthorId  = 73,
+		FirstNamw = "Victor",
+		LastName  = "Hugo"
+	},
+
+	new Author { 
+		AuthorId  = 74,
+		FirstName = "Virginia",
+		LastName  = "Woolf"
+	},
+
+	new Author { 
+		AuthorId  = 75,
+		FirstName = "Vladimir",
+		LastName  = "Nabokov"
+	},
+
+	new Author { 
+		AuthorId  = 76,
+		FirstName = "William",
+		LastName  = "Faulkner"
+	},
+
+	new Author { 
+		AuthorId  = 77,
+		FirstName = "William",
+		LastName  = "Golding"
+	},
+
+	new Author { 
+		AuthorId  = 78,
+		FirstName = "William",
+		LastName  = "Shakespeare"
+	}

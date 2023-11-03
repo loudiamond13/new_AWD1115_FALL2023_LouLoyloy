@@ -1,0 +1,95 @@
+﻿@{
+    // sets the selected menu into active and helps to navigate to certain area if needed
+     string ActiveNavMenu(string action, string? area = null )
+    {
+        //gets the current area 
+        string? currentArea = ViewContext.RouteData.Values["Area"]?.ToString();
+
+        //gets the current action
+        string? currentAction = ViewContext.RouteData.Values["Action"]?.ToString();
+
+        return ( action == currentAction && area == currentArea ) ? "active" : "" ;
+    }
+    string? message = TempData["message"]?.ToString();
+    string? subheader = TempData["subheader"]?.ToString();
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - My Bike Shop</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+   
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/BikeShop_HOT.styles.css"  /> 
+</head>
+<body class="m-0">
+    
+    <header>
+        
+            <nav class=" navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-primary border-bottom box-shadow mb-3">
+            
+                    <a class=" mx-2 navbar-brand @ActiveNavMenu("Index")" 
+                    asp-area="" asp-controller="Home" asp-action="Index">The Bike Shop</a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link  @ActiveNavMenu("Index")"
+                                  asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link @ActiveNavMenu("List") @ActiveNavMenu("Details")" asp-route-id=""
+                               asp-area="" asp-controller="Product" asp-action="List">Products</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link @ActiveNavMenu("About")" 
+                                asp-area="" asp-controller="Home" asp-action="About">About</a>
+                        </li>
+                       
+                    </ul>
+                </div>
+            <div class="navbar-nav mr-5">
+                <a class="text secondary nav-link nav-item @ActiveNavMenu("Index", "Admin")"
+                    asp-area="Admin" asp-controller="Home" asp-action="Index">Admin</a>
+            </div>
+            </nav>
+
+        </header>
+    <div class="container-fluid">
+    
+    
+
+        <main role="main" class="pb-3 mb-4">
+           
+                @if (!string.IsNullOrEmpty(message))
+                {
+                    <h2 id="msg" class="bg-light text-center p-2 mb-1">@message</h2>
+                }
+                @if (!string.IsNullOrEmpty(subheader))
+                {
+                    <h2 class="p-2 mb-1 text-center">@subheader</h2>
+                }
+            @RenderBody()
+          
+        </main>
+    </div>
+    <br><br>
+        <footer class="text-center footer text-muted border-top">
+            <div class="container ">
+            &copy; @DateTime.Now.Year - Lou Loyloy BikeShop HOT03
+        </div>
+    </footer>
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

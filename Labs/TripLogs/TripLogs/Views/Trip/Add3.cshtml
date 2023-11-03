@@ -1,0 +1,26 @@
+﻿@model TripViewModel
+
+@{
+    ViewBag.Title = "Add Trip - Page 3";
+    ViewBag.Subheader = "Add Things To Do In " + Model.Trip.Destination;
+}
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<form asp-action="Add">
+    <input type="hidden" asp-for="PageNumber" />
+    <div class="form-group mt-2">
+
+        <input asp-for="Trip.ToDo1" class="form-control" />
+    </div>
+    <div class="form-group mt-2">
+        <input asp-for="Trip.ToDo2" class="form-control" />
+    </div>
+
+    <div class="form-group mt-2">
+        <input asp-for="Trip.ToDo3" class="form-control" />
+    </div>
+    <div>
+        <button type="submit" class=" mt-2 btn btn-dark">Save</button>
+        <a asp-action="Cancel" class="btn btn-outline-dark">Cancel</a>
+    </div>
+</form>

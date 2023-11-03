@@ -1,0 +1,109 @@
+﻿@using SportsPro.ViewModel
+@using SportsPro.Models
+
+
+@model IncidentViewModel
+@{
+    ViewBag.Title = "Incident Manager";
+}
+
+<h1>@ViewBag.Title</h1>
+<table class="table-striped table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Customer</th>
+            <th>Product</th>
+            <th>Date Opened</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var i in Model.Incidents)
+        {
+            <tr>
+                <td>@i.Title</td>
+                <td>@i.Customer?.FullName</td>
+                <td>@i.Product?.Name</td>
+                <td>@i.DateOpened</td>
+
+                <td>
+                    <a class="btn btn-primary" asp-controller="Incident"
+                        asp-action="Edit" asp-route-id="@i.IncidentID">
+                        Edit
+                    </a>
+                </td>
+
+                <td>
+                    <a class="btn btn-primary" asp-controller="Incident"
+                       asp-action="Delete" asp-route-id="@i.IncidentID">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+<td>
+    <a class="btn btn-primary" asp-controller="Incident"
+       asp-action="Add">
+        Add Incident
+    </a>
+</td>
+
+
+@*                         
+@model List<Incident>
+@{
+    ViewBag.Title = "Incident Manager";
+}
+
+<h1>@ViewBag.Title</h1>
+<table class="table-striped table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Customer</th>
+            <th>Product</th>
+            <th>Date Opened</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var incident in Model)
+        {
+            <tr>
+                <td>@incident.Title</td>
+                <td>@incident.Customer?.FullName</td>
+                <td>@incident.Product?.Name</td>
+                <td>@incident.DateOpened</td>
+
+                <td>
+                    <a class="btn btn-primary" asp-controller="Incident"
+                        asp-action="Edit" asp-route-id="@incident.IncidentID">
+                        Edit
+                    </a>
+                </td>
+
+                <td>
+                    <a class="btn btn-primary" asp-controller="Incident"
+                       asp-action="Delete" asp-route-id="@incident.IncidentID">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+<td>
+    <a class="btn btn-primary" asp-controller="Incident"
+       asp-action="Add">
+        Add Incident
+    </a>
+</td> *@

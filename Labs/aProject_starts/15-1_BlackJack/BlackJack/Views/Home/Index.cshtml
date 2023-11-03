@@ -1,0 +1,79 @@
+﻿@model Game
+
+@{
+    ViewBag.Title = "Blackjack";
+    string dealerHeader = "Dealer";
+    string playerHeader = "Player";
+
+    if (Model.Dealer.MustShowCards) dealerHeader = $"{dealerHeader}: {Model.Dealer.Hand.Total}";
+    if (Model.Player.Hand.HasCards) playerHeader = $"{playerHeader}: {Model.Player.Hand.Total}";
+}
+
+<h5>@dealerHeader</h5>
+<div class="hand mb-4">
+    @for (int i = 0; i < Model.Dealer.Hand.Count; i++)
+    {
+        if (i == 0 && Model.Dealer.Hand.HideHoleCard)
+        {
+            // hide hold card (first card)
+            <img src="~/images/back.svg" />
+        }
+        else
+        {
+            Card card = Model.Dealer.Hand.Cards[i];
+            <img src="~/images/@(card.Name).svg" />
+        }
+    }
+</div>
+
+<h5>@playerHeader</h5>
+<div class="hand mb-4">
+    @foreach (Card card in Model.Player.Hand.Cards)
+    {
+        <img src="~/images/@(card.Name).svg" />
+    }
+</div>
+
+<div class="row mb-2">
+
+    <div class="col-2 offset-3">
+        <form asp-action="Deal" method="post" class="col">
+            @if (Model.NeedsDeal)
+            {
+                <button type="submit" class="btn btn-primary">Deal</button>
+            }
+            else
+            {
+                <button type="submit" class="btn btn-primary" disabled>Deal</button>
+            }
+
+        </form>
+    </div>
+
+    <div class="col-2">
+        <form asp-action="Hit" method="post" class="col">
+            @if (!Model.NeedsDeal)
+            {
+                <button type="submit" class="btn btn-primary">Hit</button>
+            }
+            else
+            {
+                <button type="submit" class="btn btn-primary" disabled>Hit</button>
+            }
+        </form>
+    </div>
+
+    <div class="col-2">
+        <form asp-action="Stand" method="post" class="col">
+            @if (!Model.NeedsDeal)
+            {
+                <button type="submit" class="btn btn-primary">Stand</button>
+            }
+            else
+            {
+                <button type="submit" class="btn btn-primary" disabled>Stand</button>
+            }
+        </form>
+    </div>
+
+</div>

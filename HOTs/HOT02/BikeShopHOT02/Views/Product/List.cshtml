@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewBag.Title = "Product Manager";
+}
+
+<h2>Product Manager</h2>
+
+<table class="table table-bordered">
+    @*Table Header*@
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Short Description</th>
+            <th>Long Description</th>
+            <th>Image</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Category</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @*Loop through all products in product list and add all data into table *@
+        @foreach(Product prod in Model)
+        {
+            <tr>
+                <td>@prod.ProductName</td>
+                <td>@prod.ProductDescShort</td>
+                <td>@prod.ProductDescLong</td>
+                <td>@prod.ProductImage</td>
+                <td>@prod.ProductPrice.ToString("c")</td>
+                <td>@prod.ProductQty</td>
+                <td>@prod.Category?.CategoryDescription</td>
+
+                @*create edit Button each row*@
+                <td>
+                    <a class="btn btn-primary" asp-controller="Product" asp-action="EditProduct"
+                       asp-route-id="@prod.ProductID" asp-route-slug="@prod.Slug">
+                        Edit
+                    </a>
+                </td>
+
+                @*create Delete Button each row*@
+                <td>
+                    <a class="btn btn-primary" asp-controller="Product" asp-action="DeleteProduct"
+                       asp-route-id="@prod.ProductID" asp-route-slug="@prod.Slug">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+
+        
+    </tbody>
+    
+</table>
+
+@*Add Product Button*@
+<a class="mt-2 mb-5 btn btn-primary" asp-controller="Product" asp-action="AddProduct">
+    Add Product
+</a>
+
+@*Home Button*@
+<a class="mt-2  mb-5 btn btn-primary" asp-controller="Home" asp-action="Index">Home</a>

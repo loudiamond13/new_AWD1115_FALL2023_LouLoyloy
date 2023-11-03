@@ -1,0 +1,28 @@
+﻿@model DistanceConverterModel
+
+@{
+    ViewData["Title"] = "Distance Converter";
+}
+
+
+
+<form method="post" asp-action="Index" asp-controller="Home">
+    <div class="container">
+    <div>
+        <label class="mt-3" asp-for="DistanceInInches">Distance In Inches</label>
+        
+    </div>
+    
+    <div>
+            <input asp-for="DistanceInInches" />
+            <span class="text-danger" asp-validation-for="DistanceInInches"></span>
+    </div>
+        
+    <div>
+            <button class ="mt-2" type="submit">Convert To Cm</button>
+       
+    </div>
+        <br>
+        <label class="result">@ViewBag.DistanceInInches.ToString()</label>
+    </div>
+</form>

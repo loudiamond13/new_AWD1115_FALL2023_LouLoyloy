@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ScaffoldingReadMe.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\content\images\AboutImage\AboutBikeShopIMG.jpg" />
+    <None Include="wwwroot\content\images\AeroFlo_ATB_Wheels.jpg" />
+    <None Include="wwwroot\content\images\Clear_Shade_85_T_Glasses.jpg" />
+    <None Include="wwwroot\content\images\Cosmic_Elite_Road_Warrior_Wheels.jpg" />
+    <None Include="wwwroot\content\images\Cycle_Doc_Pro_Repair_Stand.jpg" />
+    <None Include="wwwroot\content\images\Dog_Ear_Aero_Flow_Floor_Pump.jpg" />
+    <None Include="wwwroot\content\images\Dog_Ear_Cycle_Computer.jpg" />
+    <None Include="wwwroot\content\images\Dog_Ear_Helmet_Mount_Mirror.jpg" />
+    <None Include="wwwroot\content\images\Dog_Ear_Monster_Grip_Gloves.jpg" />
+    <None Include="wwwroot\content\images\Eagle_FS_3_Mountain_Bike.jpg" />
+    <None Include="wwwroot\content\images\Eagle_SA_120_Clipless_Pedals.jpg" />
+    <None Include="wwwroot\content\images\Glide_O_Matic_Cycling_Helmet.jpg" />
+    <None Include="wwwroot\content\images\GT_RTS_2_Mountain_Bike.jpg" />
+    <None Include="wwwroot\content\images\HP_Deluxe_Panniers.jpg" />
+    <None Include="wwwroot\content\images\King_Cobra_Helmet.jpg" />
+    <None Include="wwwroot\content\images\Kool_Breeze_Rocket_Top_Jersey.jpg" />
+    <None Include="wwwroot\content\images\Kryptonite_Advanced_2000_U_Lock.jpg" />
+    <None Include="wwwroot\content\images\Nikoma_Lok_Tight_U_Lock.jpg" />
+    <None Include="wwwroot\content\images\Proformance_ATB_All_Terrain_Pedal.jpg" />
+    <None Include="wwwroot\content\images\ProFormance_Toe_Klips_2G.jpg" />
+    <None Include="wwwroot\content\images\Pro_Sport_Dillo_Shades.jpg" />
+    <None Include="wwwroot\content\images\Road_Warrior_Hitch_Pack.jpg" />
+    <None Include="wwwroot\content\images\Shinoman_105_SC_Brakes.jpg" />
+    <None Include="wwwroot\content\images\Shinoman_Deluxe_TX_30_Pedal.jpg" />
+    <None Include="wwwroot\content\images\Shinoman_Dura_Ace_Headset.jpg" />
+    <None Include="wwwroot\content\images\StaDry_Cycling_Pants.jpg" />
+    <None Include="wwwroot\content\images\TransPort_Bicycle_Rack.jpg" />
+    <None Include="wwwroot\content\images\Trek_9000_Mountain_Bike.jpg" />
+    <None Include="wwwroot\content\images\True_Grip_Competition_Gloves.jpg" />
+    <None Include="wwwroot\content\images\Turbo_Twin_Tires.jpg" />
+    <None Include="wwwroot\content\images\Ultimate_Export_2G_Car_Rack.jpg" />
+    <None Include="wwwroot\content\images\Ultra_2K_Competition_Tire.jpg" />
+    <None Include="wwwroot\content\images\Ultra_Pro_Rain_Jacket.jpg" />
+    <None Include="wwwroot\content\images\Victoria_Pro_All_Weather_Tires.jpg" />
+    <None Include="wwwroot\content\images\Viscount_CardioSport_Sport_Watch.jpg" />
+    <None Include="wwwroot\content\images\Viscount_C_500_Wireless_Bike_Computer.jpg" />
+    <None Include="wwwroot\content\images\Viscount_Microshell_Helmet.jpg" />
+    <None Include="wwwroot\content\images\Viscount_Mountain_Bikes.jpg" />
+    <None Include="wwwroot\content\images\Viscount_Tru_Beat_Heart_Transmitter.jpg" />
+    <None Include="wwwroot\content\images\Wonder_Wood_Cycle_Socks.jpg" />
+    <None Include="wwwroot\content\images\X_Pro_All_Weather_Tires.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+  </ItemGroup>
+
+</Project>

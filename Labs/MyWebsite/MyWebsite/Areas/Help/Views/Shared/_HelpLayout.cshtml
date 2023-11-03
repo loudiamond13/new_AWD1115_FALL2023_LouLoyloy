@@ -1,0 +1,82 @@
+﻿@{
+    Layout = "_Layout";
+
+    string ActiveNav(string controller)
+    {
+        string currentController = ViewContext.RouteData.Values["controller"].ToString();
+        return (controller == currentController) ? "active" : "";
+
+    }
+   
+}
+<div class="container-fluid">
+@section header
+    {
+    <h2>Help Page</h2>
+    }
+
+<ul class="nav nav-tabs my-4 mb-2">
+    <li class="nav-item">
+        
+        <a  class="nav-link  @ActiveNav( "Home")" 
+                                                            asp-controller= "Home"
+                                                            asp-action= "Index"
+                                                            asp-area=   "Help">
+                                                            Home
+                  </a>
+        </li>
+
+    <li class="nav-item">
+        
+        <a  class="nav-link @ActiveNav("Tutorial")"
+                                                        asp-controller="Tutorial"
+                                                        asp-route-id=   "Page1"
+                                                        asp-area=    "Help"
+                                                         asp-action="">
+                                                         Tutorial
+             </a>
+
+    </li>
+    </ul>
+    @RenderBody()
+</div>
+
+    @* <div class="tab-content" >
+        <div class="tab-pane fade active show" id="home" role="tabpanel" aria-labelledby="home-tab">
+            @RenderBody()
+        </div>
+    
+
+        <div class="tab-pane fade show" id="tutorial" role="tabpanel" aria-labelledby="tutorial-tab">
+            @RenderBody()
+         </div>
+     </div> *@
+
+
+@* 
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+
+ *@
+
+
+
+
+
+@* <!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>
+ *@

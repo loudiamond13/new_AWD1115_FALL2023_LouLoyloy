@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gA7SzRNVO9W/28I2UKsclw6lv2CjnGoUUm4JMQZ3sWtPquZP00KdIotB7fehn4Z0rCClN7pjp+/4hHXv5I+9tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jpscott\\Desktop\\AWD1115\\Labs\\project_starts\\15-1_BlackJack\\BlackJack\\BlackJack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpscott\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
+    "C:\\Users\\jpscott\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",
+    "C:\\Users\\jpscott\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\jpscott\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\jpscott\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

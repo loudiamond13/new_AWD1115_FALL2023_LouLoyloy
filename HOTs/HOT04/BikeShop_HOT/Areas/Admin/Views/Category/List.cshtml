@@ -1,0 +1,47 @@
+﻿@using BikeShop_HOT.Models
+@using BikeShop_HOT
+@using Category = BikeShop_HOT.Models.Category;
+@model ProductListViewModel
+
+
+@{
+    ViewData["Title"] = "Categories -";
+    TempData["subheader"] = "Categories";
+}
+
+<table class="table-bordered table-striped table">
+    <thead>
+        <tr>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model.Categories)
+        {
+            <tr>
+                <td>@category.CategoryName</td>
+                <td>
+                    <a class="btn myBTN" asp-action="Update" asp-area="Admin" 
+                        asp-controller="Category" asp-route-id="@category.CategoryID" 
+                        asp-route-slug="@category.Slug">
+                    Update
+                </a>
+                </td>
+                <td>
+                    <a class=" btn myBTN" asp-action="Delete" asp-area="Admin" 
+                            asp-controller="Category"
+                           asp-route-id="@category.CategoryID"
+                       asp-route-slug="@category.Slug">
+                           Delete
+                       </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    
+</table>
+<a class=" btn myBTN" asp-action="Add" asp-area="Admin"
+   asp-controller="Category">
+ 
+    Add Category
+</a>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HOT01.props" />
+</Project>

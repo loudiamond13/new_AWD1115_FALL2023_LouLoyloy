@@ -1,0 +1,43 @@
+﻿@model DistanceConverterModel
+
+@{
+    ViewData["Title"] = "Distance Converter";
+}
+
+<div class="text-center">
+    <h1 class="display-4"><strong>Welcome to my Distance Converter Web App.</strong></h1>
+    <p>
+        This is the first program we are writing where we have added a route
+        to the program.cs file.
+        This was done so that we can call our program methods from within the 
+        DistanceConverter controller using the distanceConverter route.
+    </p>
+    <a class="btn btn-primary" asp-controller="DistanceConverter" asp-action="Index">Distance Converter</a>
+</div>
+
+
+
+
+
+
+
+@*<form method="post" asp-action="Index" asp-controller="DistanceConverter">
+    <div class="container">
+    <div>
+        <label class="mt-3" asp-for="DistanceInInches">Distance In Inches</label>
+        
+    </div>
+    
+    <div>
+            <input asp-for="DistanceInInches" />
+            <span class="text-danger" asp-validation-for="DistanceInInches"></span>
+    </div>
+        
+    <div>
+            <button class ="mt-2" type="submit">Convert To Cm</button>
+       
+    </div>
+        <br>
+        
+    </div>
+</form>*@

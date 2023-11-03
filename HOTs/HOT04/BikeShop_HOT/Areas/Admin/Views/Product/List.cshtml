@@ -1,0 +1,103 @@
+﻿@using BikeShop_HOT.Models
+@using Microsoft.IdentityModel.Tokens;
+
+@model ProductListViewModel
+
+@{
+
+    ViewBag.Title = "Products -";
+
+    }
+
+
+
+
+<div class="container-fluid ">
+
+    <div class="row justify-content-center">
+        <div class=" col-2">
+            
+            <ul class="nav flex-column nav-pills gap-1 text-center">
+                <li class="nav-item">
+                    <a class="@Model.CheckActiveCategory(0) nav-link border border-2 border-primary"
+                       asp-controller="Product" asp-action="List" asp-area="Admin"
+                       asp-route-id="">
+                        All
+                    </a>
+                </li>
+                @foreach(var cat in Model.Categories)
+                {
+                  
+                    <li class="nav-item">
+                        <a class="@Model.CheckActiveCategory(cat.CategoryID)
+                                    nav-link border border-2 border-primary" name="@cat.CategoryName"
+                           asp-controller="Product" asp-action="List" asp-area="Admin"
+                           asp-route-id="@cat.CategoryID" asp-route-slug="@cat.Slug" 
+                        >
+                            @cat.CategoryName
+                           
+                         
+                        </a>
+                       
+                    </li>
+                    
+                }
+                <li class="nav-item mt-5">
+                    <a class=" nav-link border border-2 border-primary "
+                       asp-controller="Product" asp-action="Add" asp-area="Admin">
+                        Add Product
+                    </a>
+                </li>
+
+             
+            </ul>
+
+
+        </div>
+
+        <div class="col-8 ">
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var product in Model.Products)
+                    {
+                        <tr>
+                            <td>@product.Name</td>
+                            <td>@product.Price.ToString("c")</td>
+
+                            @* product View Details button   *@
+                            <td class="text-center text-primary">
+                                <a asp-controller="Product" asp-action="Update" class=" btn  myBTN"
+                                  asp-area="Admin" asp-route-id="@product.ProductID" 
+                                  asp-route-Slug="@product.Slug">
+                                  Update
+                              </a>
+                            </td>
+
+                            @* product Add to cart button   *@
+                            <td class="text-center">
+                                <a asp-controller="Product" asp-area="Admin" asp-action="Delete" class="btn myBTN"
+                                   asp-route-id="@product.ProductID" 
+                                   asp-route-Slug="@product.Slug">
+                                   Delete
+                               </a>
+                            </td>
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+          
+        </div>
+
+    </div>
+</div>
+
+

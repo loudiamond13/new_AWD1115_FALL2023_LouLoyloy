@@ -1,0 +1,66 @@
+﻿@model OrderForm
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="container">
+
+    <form method="post" asp-action="Index" asp-controller="Home">
+        <div>
+            <label>Order Form</label>
+        </div>
+
+        <div class="mt-5 row form-group">
+            <label class="col-sm-2" asp-for="Quantity"></label>
+      
+
+            <div class="col-sm-3">
+                <input class=" form-control" asp-for="Quantity" />
+                <span class="text-danger" asp-validation-for="Quantity"></span>
+            </div>
+            
+        </div>
+
+        <br>
+
+        <div class="row form-group">
+            <label class="col-sm-2" asp-for="DiscountCode">Discount Code</label>
+
+            <div class="col-sm-3">
+                <input class=" form-control" asp-for="DiscountCode" />
+                <span class="text-danger">@ViewBag.DiscountCodeMessage</span>
+           </div>
+        </div>
+
+        <br>
+
+        <div>
+            <button class="btn btn-primary" type="submit">Order</button>
+        </div>
+
+        <br>
+
+        <div class="border-2 border border-dark">
+            <br>
+            
+            <label class="m-2">@ViewBag.PricePerShirt</label>
+            <br>
+
+            <label>-----------------------------------------------</label>
+            <br>
+
+            <label class="m-2">Subtotal: @ViewBag.Subtotal</label>
+            <br>
+
+            <label class="m-2">Tax: @ViewBag.Tax</label>
+            <br>
+
+            <label class="m-2 mb-2">Total: @ViewBag.Total</label>
+            
+        </div>
+
+    </form>
+
+</div>

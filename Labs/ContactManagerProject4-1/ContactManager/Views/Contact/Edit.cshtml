@@ -1,0 +1,62 @@
+﻿@model Contact
+
+@{
+    ViewBag.Title = ViewBag.Action + "Contact"; 
+}
+
+<h1>@ViewBag.Action Contact</h1>
+
+<form asp-controller="Contact" asp-action="Edit" method="post">
+
+    <input type="hidden" asp-for="ContactID" />
+
+    <div class="form-group">
+        <label asp-for="FirstName">First name</label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="LastName">Last name</label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PhoneNo">Phone</label>
+        <input asp-for="PhoneNo" class="form-control" />
+        <span asp-validation-for="PhoneNo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CategoryID">Category</label>
+        <select asp-for="CategoryID" class="form-control">
+            <option value="0">select a category</option>
+            @foreach (Category c in ViewBag.Categories)
+            {
+                <option value="@c.CategoryID">@c.CategoryName</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Organization">Organization</label>
+        <input asp-for="Organization" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-dark">@ViewBag.Action</button>
+
+    @if (ViewBag.Action == "Edit")
+    {
+        <a asp-action="Details" asp-controller="Contact"
+           asp-route-id="@Model.ContactID" asp-route-slug="@Model.Slug"
+           class="btn btn-dark">Cancel</a>
+    }
+    else
+    {
+        <a asp-action="Index" asp-controller="Home"
+           class="btn btn-dark">Cancel</a>
+    }
+
+</form>

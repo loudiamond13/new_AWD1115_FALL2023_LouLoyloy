@@ -1,0 +1,973 @@
+entity.HasData(
+	new Book { 
+		BookId 	= 1,
+		Title  	= "The Boy in the Striped Pajamas",
+		GenreId = "drama"
+		Price	= 53.99,
+		Image   = "~/images/01-The-Boy-in-the-Striped-Pajamas.jpg",
+		Summary = "The novel is based on historical events but is primarily fiction. It takes place in the Auschwitz Concentration Camp in Nazi Germany and follows a young boy whose father is a high-ranking Nazi official. "
+	},
+
+	new Book { 
+		BookId 	= 2,
+		Title  	= "Les Miserables",
+		GenreId = "historicalfiction"
+		Price	= 55.66,
+		Image   = "~/images/02-Les-Miserables.jpg",
+		Summary = "Les Misérables is a beloved classic by the French author Victor Hugo. This timeless novel is an epic tale of love, justice, and redemption."
+	},
+
+	new Book { 
+		BookId 	= 3,
+		Title  	= "The Awakening",
+		GenreId = "comingofage"
+		Price	= 78.90,
+		Image   = "~/images/03-The-Awakening.jpg",
+		Summary = "The Awakening by Kate Chopin is an 1899 novel thats regarded as one of the most important fenimist novels of the 19th century."
+	},
+
+	new Book { 
+		BookId 	= 4,
+		Title  	= "Charlottes Web",
+		GenreId = "children"
+		Price	= 66.90,
+		Image   = "~/images/04-Charlottes-Web.jpg",
+		Summary = "Charlottes Web by E.B. White is a beloved childrens classic about the unlikely friendship between a pig named Wilbur and an intelligent spider named Charlotte. Readers of all ages have cherished the timeless story since its publication in 1952."
+	},
+
+	new Book { 
+		BookId 	= 5,
+		Title  	= "The Silmarillion",
+		GenreId = "fantasy"
+		Price	= 66.90,
+		Image   = "~/images/05-The-Silmarillion.jpg",
+		Summary = "Although Tolkien started working on the stories that became The Silmarillion as early as 1914, the book remained unpublished until four years after his death."
+	},
+
+	new Book { 
+		BookId 	= 6,
+		Title  	= "The Scarlet Letter",
+		GenreId = "historicalfiction"
+		Price	= 44.55,
+		Image   = "~/images/06-The-Scarlet-Letter.jpg",
+		Summary = "The Scarlet Letter is a thrilling novel and true work of American classic literature, written to the applaud of all by acclaimed author Nathaniel Hawthorne, around the middle of the 19th century."
+	},
+
+	new Book { 
+		BookId 	= 7,
+		Title  	= "To the Lighthouse",
+		GenreId = "literaryfiction"
+		Price	= 55.66,
+		Image   = "~/images/07-To-the-Lighthouse.jpg",
+		Summary = "To the Lighthouse by Virginia Woolf explores the life of the Ramsays, and Lily Briscoe, among others. It is widely regarded as a pioneer work in modernism."
+	},
+
+	new Book { 
+		BookId 	= 8,
+		Title  	= "The Notebook",
+		GenreId = "literaryfiction"
+		Price	= 39.99,
+		Image   = "~/images/08-The-Notebook.jpg",
+		Summary = "The Notebook is a 1996 novel by American Novelist Nicholas Sparks. It tells the romantic story of two aged lovers and the role of time in their lives."
+	},
+
+	new Book { 
+		BookId 	= 9,
+		Title  	= "The Da Vinci Code",
+		GenreId = "crimefiction"
+		Price	= 49.99,
+		Image   = "~/images/09-The-Da-Vinci-Code.jpg",
+		Summary = "The Da Vinci Code by Dan Brown is the thrilling story of symbology expert Robert Langdon and cryptologist Sophie Neveu, as they fight to uncover the truth after a murder in the Louvre museum in Paris puts them at the centre of a battle between an ancient fraternity and the Vaticans Opus Dei"
+	},
+
+	new Book { 
+		BookId 	= 10,
+		Title  	= "The Invisible Man",
+		GenreId = "sciencefiction"
+		Price	= 66.76,
+		Image   = "~/images/10-The-Invisible-Man.jpg",
+		Summary = "The Invisible Man by H.G. Wells is a classic science fiction novel that was written during the Victorian Era in the late 1800s."
+	},
+
+	new Book { 
+		BookId 	= 11,
+		Title  	= "The Power",
+		GenreId = "dystopian"
+		Price	= 53.99,
+		Image   = "~/images/11-The-Power.jpg",
+		Summary = "The Power is a contemporary novel published in 2016 by English author Naomi Alderman. The novel was inspired by the long history of feminist science fiction and dystopian fiction."
+	},
+
+	new Book { 
+		BookId 	= 12,
+		Title  	= "I Am Legend",
+		GenreId = "dystopian"
+		Price	= 55.66,
+		Image   = "~/images/12-I-Am-Legend.jpg",
+		Summary = "Mathesons third book, I Am Legend was initially promoted as science fiction. Although released in 1954 as a dystopian novel, the story occurred in 1976."
+	},
+
+	new Book { 
+		BookId 	= 13,
+		Title  	= "Things Fall Apart",
+		GenreId = "historicalfiction"
+		Price	= 78.90,
+		Image   = "~/images/13-Things-Fall-Apart.jpg",
+		Summary = "Chinua Achebes Things Fall Apart is one of the most important novels of the 21st century, as well as undoubtedly Africas most important fictional work."
+	},
+
+	new Book { 
+		BookId 	= 14,
+		Title  	= "Jane Eyre",
+		GenreId = "comingofage"
+		Price	= 66.90,
+		Image   = "~/images/14-Jane-Eyre.jpg",
+		Summary = "Charlotte Brontës Jane Eyre serves as an inspirational novel for all women struggling to discover themselves amid patriarchal dominance, family setbacks, and gender-negative societal norms."
+	},
+
+	new Book { 
+		BookId 	= 15,
+		Title  	= "Swanns Way",
+		GenreId = "classic"
+		Price	= 66.90,
+		Image   = "~/images/15-Swanns-Way.jpg",
+		Summary = "Swanns Way by Marcel Proust is one of the most influential novels of the twentieth century. It has been consistently praised for its brilliant exposition of the human mind."
+	},
+
+	new Book { 
+		BookId 	= 16,
+		Title  	= "Wuthering Heights",
+		GenreId = "romance"
+		Price	= 44.55,
+		Image   = "~/images/16-Wuthering-Heights.jpg",
+		Summary = "Out of the Romantic Movement in English literature comes Wuthering Heights by Emily Brontë, a gothic fiction whose plot mysteriousness causes its initial public reception to be one characterized by verbal backlashes and callouts."	
+	},
+
+	new Book { 
+		BookId 	= 17,
+		Title  	= "Ulysses",
+		GenreId = "literaryfiction"
+		Price	= 55.66,
+		Image   = "~/images/17-Ulysses.jpg",
+		Summary = "Ulysses follows a day in the life of Leopold Bloom, Molly Bloom, and Stephen Dedalus on June 16th, 1904, in Dublin, Ireland."
+	},
+
+	new Book { 
+		BookId 	= 18,
+		Title  	= "A Dance with Dragons",
+		GenreId = "fantasy"
+		Price	= 39.99,
+		Image   = "~/images/18-A-Dance-with-Dragons.jpg",
+		Summary = "A Dance with Dragons is the fifth book in A Song of Ice and Fire. Its events happen simultaneously with A Feast for Crows. The story gives more detail into the events of A Feast for Crows and shows the perspective of other characters omitted."
+	},
+
+	new Book { 
+		BookId 	= 19,
+		Title  	= "A Feast for Crows",
+		GenreId = "fantasy"
+		Price	= 49.99,
+		Image   = "~/images/19-A-Feast-for-Crows.jpg",
+		Summary = "A Feast for Crows is the fourth book in George R. R. Martins fantasy series, A Song of Ice and Fire. It takes off from where A Storm of Swords stops and dives deeper into the events after the death of Tywin, Aryas sail to Braavos, and Robbs death."
+	},
+
+	new Book { 
+		BookId 	= 20,
+		Title  	= "The Sound and the Fury",
+		GenreId = "classic"
+		Price	= 66.76,
+		Image   = "~/images/20-The-Sound-and-the-Fury.jpg",
+		Summary = "The Sound and the Fury by William Faulkner chronicles the fall of the Compson family in Jefferson, Mississippi in the 20th Century."
+	},
+
+	new Book { 
+		BookId 	= 21,
+		Title  	= "Gay Girl, Good God",
+		GenreId = "autobiographyandmemoir"
+		Price	= 53.99,
+		Image   = "~/images/21-Gay-Girl,-Good-God.jpg",
+		Summary = "Gay Girl, Good God is an expressive story that shares the authors journey through life as a same-sex-attracted woman. The book speaks on many issues Christians deal with when it comes to sin."
+	},
+
+	new Book { 
+		BookId 	= 22,
+		Title  	= "A Storm of Swords",
+		GenreId = "fantasy"
+		Price	= 55.66,
+		Image   = "~/images/22-A-Storm-of-Swords.jpg",
+		Summary = "A Storm of Sword is the third and longest novel in A Song of Ice and Fire. The story events begin right before the end of A Clash of Kings and follow the lives of the primary characters in Westeros and Essos as they struggle for survival in a war."
+	},
+
+	new Book { 
+		BookId 	= 23,
+		Title  	= "Walden",
+		GenreId = "autobiographyandmemoir"
+		Price	= 78.90,
+		Image   = "~/images/23-Walden.jpg",
+		Summary = "Walden is an eighteen-essay memoir based on the narratives of nature writing, where author Henry David Thoreau talks about the importance of adopting an intuitive and spiritual living."
+	},
+
+	new Book { 
+		BookId 	= 24,
+		Title  	= "Jurrasic Park",
+		GenreId = "sciencefiction"
+		Price	= 66.90,
+		Image   = "~/images/24-Jurrasic-Park.jpg",
+		Summary = "Jurassic Park by Michael Crichton is a 1990 science-fiction novel. It follows the fates of scientists and civilians who are caught up in a state-of-the-art dinosaur park where prehistoric creatures have been recreated using DNA. "
+	},
+
+	new Book { 
+		BookId 	= 25,
+		Title  	= "Solitude",
+		GenreId = "magicalrealism"
+		Price	= 66.90,
+		Image   = "~/images/25-One-Hundred-Years-Of-Solitude.jpg",
+		Summary = "One Hundred Years of Solitude by Gabriel García Márquez is a thrilling novel that chronicles the life and times of the Buendía family."
+	},
+
+	new Book { 
+		BookId 	= 26,
+		Title  	= "A Clash of Kings",
+		GenreId = "fantasy"
+		Price	= 44.55,
+		Image   = "~/images/26-A-Clash-of-Kings.jpg",
+		Summary = "A Clash of Kings is the second novel in the epic fantasy series A Song of Ice and Fire by American author George R. R. Martin. It continues the story of Westeros and its people as they struggle for power in a world of chaos."
+	},
+
+	new Book { 
+		BookId 	= 27,
+		Title  	= "Less",
+		GenreId = "romance"
+		Price	= 55.66,
+		Image   = "~/images/27-Less.jpg",
+		Summary = "Less is a 2017 satirical novel by Andrew Sean Greer about a middle-aged American man who travels around the world to escape the humiliation of watching his lover marry someone else."
+	},
+
+	new Book { 
+		BookId 	= 28,
+		Title  	= "Kindred",
+		GenreId = "literaryfiction"
+		Price	= 39.99,
+		Image   = "~/images/28-Kindred.jpg",
+		Summary = "Kindred by Octavia E. Butler is a science fiction novel with a historical twist and based upon slavery and the struggle against white hegemony."
+	},
+
+	new Book { 
+		BookId 	= 29,
+		Title  	= "Water for Elephants",
+		GenreId = "historicalfiction"
+		Price	= 49.99,
+		Image   = "~/images/29-Water-for-Elephants.jpg",
+		Summary = "Water for Elephants by Sara Gruen is a novel about the thrills and travails of life in the traveling circus during the Great Depression in America."
+	},
+
+	new Book { 
+		BookId 	= 30,
+		Title  	= "A Game of Thrones",
+		GenreId = "fantasy"
+		Price	= 66.76,
+		Image   = "~/images/30-A-Game-of-Thrones.jpg",
+		Summary = "A Game of Thrones is the first novel in the epic series, A Song of Ice and Fire, written by American author George R. R. Martin."
+	},
+
+	new Book { 
+		BookId 	= 31,
+		Title  	= "The Call of the Wild",
+		GenreId = "actionandadventure"
+		Price	= 53.99,
+		Image   = "~/images/31-The-Call-of-the-Wild.jpg",
+		Summary = "The Call of the Wild by Jack London follows Buck, a pet dog from California who is stolen and sold as a sled dog in Alaska."
+	},
+
+	new Book { 
+		BookId 	= 32,
+		Title  	= "The Ballad of Songbirds and Snakes",
+		GenreId = "actionandadventure"
+		Price	= 55.66,
+		Image   = "~/images/32-The-Ballad-of-Songbirds-and-Snakes.jpg",
+		Summary = "The Ballad of Songbirds and Snakes by Suzanne Collins is a prequel and spin-off to the Hunger Games Trilogy."
+	},
+
+	new Book { 
+		BookId 	= 33,
+		Title  	= "The Brothers Karamazov",
+		GenreId = "classic"
+		Price	= 78.90,
+		Image   = "~/images/33-The-Brothers-Karamazov.jpg",
+		Summary = "The Brothers Karamazov is widely regarded as Fyodor Dostoevskys magnum opus."
+	},
+
+	new Book { 
+		BookId 	= 34,
+		Title  	= "Because of Winn-Dixie",
+		GenreId = "children"
+		Price	= 66.90,
+		Image   = "~/images/34-Because-of-Winn-Dixie.jpg",
+		Summary = "Because of Winn-Dixie is a childrens book and a Newbury Honor winner written by Kate DiCamillo and published by Candlewick Books in 2000."
+	},
+
+	new Book { 
+		BookId 	= 35,
+		Title  	= "Henry VIII",
+		GenreId = "drama"
+		Price	= 66.90,
+		Image   = "~/images/35-Henry-VIII.jpg",
+		Summary = "Henry VIII is a historical play by the legendary William Shakespeare. It is a classic play that follows the controversial reign and love life of King Henry VIII of England and the political scheming of his officials with a focus on Cardinal Wolsey."
+	},
+
+	new Book { 
+		BookId 	= 36,
+		Title  	= "Fifty Shades Freed",
+		GenreId = "romance"
+		Price	= 44.55,
+		Image   = "~/images/36-Fifty-Shades-Freed.jpg",
+		Summary = "Fifty Shades Freed is the third novel in the Fifty Shades Trilogy. It takes off from where the previous stopped and introduces a new chapter in Ana and Christians relationship; marriage."
+	},
+
+	new Book { 
+		BookId 	= 37,
+		Title  	= "Fifty Shades Darker",
+		GenreId = "romance"
+		Price	= 55.66,
+		Image   = "~/images/37-Fifty-Shades-Darker.jpg",
+		Summary = "Fifty Shades Darker is the second novel in the Fifty Shades Trilogy. It continues the story of Ana and Christian after their first breakup."
+	},
+
+	new Book { 
+		BookId 	= 38,
+		Title  	= "Bridge to Terabithia",
+		GenreId = "children"
+		Price	= 39.99,
+		Image   = "~/images/38-Bridge-to-Terabithia.jpg",
+		Summary = "Bridge to Terabithia is a fictional childrens book written by American writer Katherine Paterson, inspired by the tragedy of the death of her sons friend - who got hit by lightening."
+	},
+
+	new Book { 
+		BookId 	= 39,
+		Title  	= "Purple Hibiscus",
+		GenreId = "comingofage"
+		Price	= 49.99,
+		Image   = "~/images/39-Purple-Hibiscus.jpg",
+		Summary = "Chimamanda Ngozi Adichies Purple Hibiscus is a novel about the downfall of a highly religious, authoritarian father."
+	},
+
+	new Book { 
+		BookId 	= 40,
+		Title  	= "Dracula",
+		GenreId = "fantasy"
+		Price	= 66.76,
+		Image   = "~/images/40-Dracula.jpg",
+		Summary = "With Dracula, Stoker was able to introduce the fantastic world of malevolent vampires and dogged vampire hunters to popular consciousness."
+	},
+
+	new Book { 
+		BookId 	= 41,
+		Title  	= "To Kill a Mockingbird",
+		GenreId = "classic"
+		Price	= 53.99,
+		Image   = "~/images/41-To-Kill-a-Mockingbird.jpg",
+		Summary = "To Kill A Mockingbird is a 1960 novel by American writer Harper Lee. It is a classic that exposes the folly and injustice of racism in the Deep South through the lens of childhood innocence."
+	},
+
+	new Book { 
+		BookId 	= 42,
+		Title  	= "Fifty Shades of Grey",
+		GenreId = "romance"
+		Price	= 55.66,
+		Image   = "~/images/42-Fifty-Shades-of-Grey.jpg",
+		Summary = "Fifty Shades of Grey is an erotic romance novel that exquisitely amalgamates the concept of BDSM into the contemporary romance story of a shy conserved girl and a dangerously handsome and successful man."
+	},
+
+	new Book { 
+		BookId 	= 43,
+		Title  	= "Before We Were Yours",
+		GenreId = "historicalfiction"
+		Price	= 78.90,
+		Image   = "~/images/43-Before-We-Were-Yours.jpg",
+		Summary = "Before We Were Yours is a polyvocal masterpiece written by renowned American writer and former journalist, Lisa Wingate, based on the true accounts of child trafficking and abuse which were prevalent in Tennessee, USA, around the late 1930s."
+	},
+
+	new Book { 
+		BookId 	= 44,
+		Title  	= "Pachinko",
+		GenreId = "historicalfiction"
+		Price	= 66.90,
+		Image   = "~/images/44-Pachinko.jpg",
+		Summary = "Pachinko is a historical fiction written by Korean-American writer, Min Jin Lee, based on the struggles of Korean immigrants in wartime Japan."
+	},
+
+	new Book { 
+		BookId 	= 45,
+		Title  	= "The Fault in Our Stars",
+		GenreId = "actionandadventure"
+		Price	= 66.90,
+		Image   = "~/images/45-The-Fault-in-Our-Stars.jpg",
+		Summary = "The Fault in Our stars is a young adult fiction novel that tells the story of a sixteen-year-old girl, Hazel, whose battle with cancer leads her to meet a boy who changes her perspective on life, love, and death."
+	},
+
+	new Book { 
+		BookId 	= 46,
+		Title  	= "The Color Purple",
+		GenreId = "literaryfiction"
+		Price	= 44.55,
+		Image   = "~/images/46-The-Color-Purple.jpg",
+		Summary = "The Color Purple by Alice Walker is a compelling story that exposes the evils of racism, sexism, domestic violence, trauma, and abuse especially as it affects African-American people."
+	},
+
+	new Book { 
+		BookId 	= 47,
+		Title  	= "Foundation",
+		GenreId = "sciencefiction"
+		Price	= 55.66,
+		Image   = "~/images/47-Foundation.jpg",
+		Summary = "Foundation is a novel that tells the story of the five different eras that followed the fall of an empire that had stood for 12,000 years."
+	},
+
+	new Book { 
+		BookId 	= 48,
+		Title  	= "Twenty THousand Leagues Under the Sea",
+		GenreId = "actionandadventure"
+		Price	= 39.99,
+		Image   = "~/images/48-Twenty-THousand-Leagues-Under-the-Sea.jpg",
+		Summary = "Twenty Thousand Leagues Under the Sea by Jules Verne follows a group of three men who, taken captive aboard the Nautilus by Captain Nemo, see incredible sights and learn the dangerous truth about their captor."
+	},
+
+	new Book { 
+		BookId 	= 49,
+		Title  	= "Children of Dune",
+		GenreId = "actionandadventure"
+		Price	= 49.99,
+		Image   = "~/images/49-Children-of-Dune.jpg",
+		Summary = "Children of Dune is the third book in the Dune series written by Frank Herbert. After his first Dune novel, Frank Herbert crafted a sequel that directly mocked and shamed the primary character of his story; this move made his second novel unique."
+	},
+
+	new Book { 
+		BookId 	= 50,
+		Title  	= "Of Mice and Men",
+		GenreId = "literaryfiction"
+		Price	= 66.76,
+		Image   = "~/images/50-Of-Mice-and-Men.jpg",
+		Summary = "Of Mice and Men sees John Steinbeck deploying a descriptive, dialogue-type commentary to get the readers to understand the level of social, economic, and psychological struggles the working-class American people faced during the epochal times between 1929 and 1940."
+	},
+
+	new Book { 
+		BookId 	= 51,
+		Title  	= "Anthem",
+		GenreId = "dystopian"
+		Price	= 53.99,
+		Image   = "~/images/51-Anthem.jpg",
+		Summary = "Anthem by Ayn Rand is a science fiction novella set in an unnamed totalitarian city where all advanced technological innovations have been destroyed and humanity launched back into a dark age of moronic collectivism."
+	},
+
+	new Book { 
+		BookId 	= 52,
+		Title  	= "Crime and Punishment",
+		GenreId = "crimefiction"
+		Price	= 55.66,
+		Image   = "~/images/52-Crime-and-Punishment.jpg",
+		Summary = "Crime and Punishment is a work of gripping intensity that delights not only because of its surface-level thrilling detective story but also because of its psychological insight and philosophical import."
+	},
+
+	new Book { 
+		BookId 	= 53,
+		Title  	= "Carrie",
+		GenreId = "horror"
+		Price	= 78.90,
+		Image   = "~/images/53-Carrie.jpg",
+		Summary = "From the graphic portrayal of events to exceptional fluidity in storytelling, Carrie became a propelling force in Stephen Kings writing career."
+	},
+
+	new Book { 
+		BookId 	= 54,
+		Title  	= "Harry Potter and the Cursed Child",
+		GenreId = "children"
+		Price	= 66.90,
+		Image   = "~/images/54-Harry-Potter-and-the-Cursed-Child.jpg",
+		Summary = "Harry Potter and the Cursed Child is the play that followed the Harry Potter book series. It premiered on 30 July 2016. A book of the same name containing the script of the play was released on 31 July 2016 on the character Harry Potters birthday."
+	},
+
+	new Book { 
+		BookId 	= 55,
+		Title  	= "Adam Bede",
+		GenreId = "classic"
+		Price	= 66.90,
+		Image   = "~/images/55-Adam-Bede.jpg",
+		Summary = "Adam Bede is a romance novel by George Eliot set in the fictional village of Hayslope and its environs in the 18th Century idyllic countryside of England."
+	},
+
+	new Book { 
+		BookId 	= 56,
+		Title  	= "Harry Potter and the Half-Blood Prince",
+		GenreId = "children"
+		Price	= 44.55,
+		Image   = "~/images/56-Harry-Potter-and-the-Half-Blood-Prince.jpg",
+		Summary = "Harry Potter and the Half-Blood Prince is the penultimate book in this much-lauded book series written by J. K. Rowling. It is one of the most important books in the series from the perspective of the plot as it sets up the finale of the series and the events of this book directly lead to Harry Potter and the Deathly Hallows, the last book of this series."
+	},
+
+	new Book { 
+		BookId 	= 57,
+		Title  	= "Harry Potter and the Deathly Hallows",
+		GenreId = "children"
+		Price	= 55.66,
+		Image   = "~/images/57-Harry-Potter-and-the-Deathly-Hallows.jpg",
+		Summary = "Harry Potter and the Deathly Hallows is the finale of the much-renowned childrens book series written by J. K. Rowling."
+	},
+
+	new Book { 
+		BookId 	= 58,
+		Title  	= "The Secret Garden",
+		GenreId = "children"
+		Price	= 39.99,
+		Image   = "~/images/58-The-Secret-Garden.jpg",
+		Summary = "The Secret Garden is a powerful dramatisation of the power of hope, faith and optimism as communicated through a simple story of some children and an abandoned garden."
+	},
+
+	new Book { 
+		BookId 	= 59,
+		Title  	= "The Shining",
+		GenreId = "horror"
+		Price	= 49.99,
+		Image   = "~/images/59-The-Shining.jpg",
+		Summary = "The Shining by Stephen King follows the Torrance family after they move into the isolated Overlook Hotel for the winter season."
+	},
+
+	new Book { 
+		BookId 	= 60,
+		Title  	= "Gone with the Wind",
+		GenreId = "historicalfiction"
+		Price	= 66.76,
+		Image   = "~/images/60-Gone-with-the-Wind.jpg",
+		Summary = "Gone with The Wind by Margaret Mitchell chronicles the life of sixteen-year-old Scarlett OHara, rife with teenage exuberance and accustomed to getting everything and every man she wants."
+	},
+
+	new Book { 
+		BookId 	= 61,
+		Title  	= "Harry Potter and the Order of the Phoenix",
+		GenreId = "children"
+		Price	= 53.99,
+		Image   = "~/images/61-Harry-Potter-and-the-Order-of-the-Phoenix.jpg",
+		Summary = "Harry Potter and the Order of the Phoenix is the fifth instalment of the Harry Potter series written by J. K. Rowling."
+	},
+
+	new Book { 
+		BookId 	= 62,
+		Title  	= "Harry Potter and the Goblet of Fire",
+		GenreId = "children"
+		Price	= 55.66,
+		Image   = "~/images/62-Harry-Potter-and-the-Goblet-of-Fire.jpg",
+		Summary = "Harry Potter and the Goblet of Fire is the fourth installment in the Harry Potter series written by J.K. Rowling. This book accounts for all the events that take place around the time Harry Potter spends his time at Hogwarts completing his fourth year."
+	},
+
+	new Book { 
+		BookId 	= 63,
+		Title  	= "Harry Potter and the Prisoner of Azkaban",
+		GenreId = "children"
+		Price	= 78.90,
+		Image   = "~/images/63-Harry-Potter-and-the-Prisoner-of-Azkaban.jpg",
+		Summary = "Harry Potter and the Prisoner of Azkaban is considered by some to be the best Harry Potter book ever written. It is the third instalment in the Harry Potter series written by J. K. Rowling."
+	},
+
+	new Book { 
+		BookId 	= 64,
+		Title  	= "Don Quixote",
+		GenreId = "classic"
+		Price	= 66.90,
+		Image   = "~/images/64-Don-Quixote.jpg",
+		Summary = "Don Quixote by Miguel de Cervantes Saavedra is a classic masterpiece whose reputation has survived more than 400 hundred years of literary innovations to still be regarded today as one of the greatest books of all time."
+	},
+
+	new Book { 
+		BookId 	= 65,
+		Title  	= "Just One Day",
+		GenreId = "actionandadventure"
+		Price	= 66.90,
+		Image   = "~/images/65-Just-One-Day.jpg",
+		Summary = "Just One Day is a romantic, adventurous, and thrilling novel that tells the story of a simple 18-year-old girl Allyson, who goes on an adventure with a total stranger, Willem, to the city of Paris."
+	},
+
+	new Book { 
+		BookId 	= 66,
+		Title  	= "Dune Messiah",
+		GenreId = "actionandadventure"
+		Price	= 44.55,
+		Image   = "~/images/66-Dune-Messiah.jpg"	,
+		Summary = "Being the sequel to Frank Herberts tale of power, religion, and the future, Dune Messiah brings more to the minds of its readers and tells the story of Paul Atreides after he ascended the throne as the emperor of the known universe."
+	},
+
+	new Book { 
+		BookId 	= 67,
+		Title  	= "Mockingjay",
+		GenreId = "actionandadventure"
+		Price	= 55.66,
+		Image   = "~/images/67-Mockingjay.jpg",
+		Summary = "Mockingjay by Suzanne Collins was published in 2010 as the third and final instalment of the young adult dystopian trilogy, The Hunger Games."
+	},
+
+	new Book { 
+		BookId 	= 68,
+		Title  	= "Half of of a Yellow Sun",
+		GenreId = "historicalfiction"
+		Price	= 39.99,
+		Image   = "~/images/68-Half-of-of-a-Yellow-Sun.jpg",
+		Summary = "There are no winners or losers in a war, only the cries of people torn apart by the gun and the smoke that rises from the fires of battle. Half of a Yellow Sun is a historical fiction story set during the Nigerian civil war."
+	},
+
+	new Book { 
+		BookId 	= 69,
+		Title  	= "The Martian",
+		GenreId = "actionandadventure"
+		Price	= 49.99,
+		Image   = "~/images/69-The-Martian.jpg",
+		Summary = "The Martian follows Mark Watney, who is accidentally left behind on Mars, and the struggle he and his colleagues go through to retrieve him safely."
+	},
+
+	new Book { 
+		BookId 	= 70,
+		Title  	= "Dune",
+		GenreId = "actionandadventure"
+		Price	= 66.76,
+		Image   = "~/images/70-Dune.jpg",
+		Summary = "Dune is a book that pushes the boundaries of imagination and shows the eloquence of crafting a book that projects the complexities of politics and the cultural influence of science-fiction on the world."
+	},
+
+	new Book { 
+		BookId 	= 71,
+		Title  	= "Harry Potter and the Chamber of Secrets",
+		GenreId = "children"
+		Price	= 53.99,
+		Image   = "~/images/71-Harry-Potter-and-the-Chamber-of-Secrets.jpg",
+		Summary = "Harry Potter and the Chamber of Secrets is the second installment in the popular Harry Potter book series penned by J K Rowling. This book takes off from the beginning of Harrys second year at Hogwarts School of Witchcraft and Wizardry."
+	},
+
+	new Book { 
+		BookId 	= 72,
+		Title  	= "The Road",
+		GenreId = "dystopian"
+		Price	= 55.66,
+		Image   = "~/images/72-The-Road.jpg",
+		Summary = "The Road by Cormac McCarthy is regarded as one of the most important books of contemporary American literature and is already being studied in schools across the country. It was made into a popular feature film in 2009."
+	},
+
+	new Book { 
+		BookId 	= 73,
+		Title  	= "The Antichrist",
+		GenreId = "philosophicalfiction"
+		Price	= 78.90,
+		Image   = "~/images/73-The-Antichrist.jpg",
+		Summary = "For Friedrich Nietzsche, Christianity, as we know it, is a corruption of Christs original message that emphasized a simple, blissful acceptance of ones reality without anger and resentment at anyone."
+	},
+
+	new Book { 
+		BookId 	= 74,
+		Title  	= "The Hate U Give",
+		GenreId = "comingofage"
+		Price	= 66.90,
+		Image   = "~/images/74-The-Hate-U-Give.jpg",
+		Summary = "The Hate U Give is the best-selling book by Angie Thomas. The story is about a young girl called Starr Carter whose life gets complicated when her friend, Khalil, was killed by the police."
+	},
+
+	new Book { 
+		BookId 	= 75,
+		Title  	= "After We Collided",
+		GenreId = "romance"
+		Price	= 66.90,
+		Image   = "~/images/75-After-We-Collided.jpg",
+		Summary = "After We Collided is the second book in the After series. It tells the story of Tessa and Hardin after Tessas heart was shattered by Hardin."
+	},
+
+	new Book { 
+		BookId 	= 76,
+		Title  	= "Catching Fire",
+		GenreId = "actionandadventure"
+		Price	= 44.55,
+		Image   = "~/images/76-Catching-Fire.jpg",
+		Summary = "Catching Fire by Suzanne Collins was published in 2009 as a part of the young adult dystopian trilogy, The Hunger Games."
+	},
+
+	new Book { 
+		BookId 	= 77,
+		Title  	= "The Time Machine",
+		GenreId = "dystopian"
+		Price	= 55.66,
+		Image   = "~/images/77-The-Time-Machine.jpg",
+		Summary = "The Time Machine is a science fiction thriller which details the life and story of a brilliant scientist and craftsman whose love for scientific adventure led him to a breakthrough that empowered him to travel far into the future, see humanity at its most trying moments, and beyond, and then back in time to tell his experience to his friends."
+	},
+
+	new Book { 
+		BookId 	= 78,
+		Title  	= "11/22/63",
+		GenreId = "historicalfiction"
+		Price	= 39.99,
+		Image   = "~/images/78-11-22-63.jpg",
+		Summary = "Throughout history, human beings have wondered about the possibilities and dangers of time travel. In 11/22/63, Stephen King answers the question: What would really happen if we changed the past?"
+	},
+
+	new Book { 
+		BookId 	= 79,
+		Title  	= "The Outsider",
+		GenreId = "horror"
+		Price	= 49.99,
+		Image   = "~/images/79-The-Outsider.jpg",
+		Summary = "Evil never ends in the universe, The Outsider is a novel that perfectly fits into this phrase as it brings to light a story that shows how elusive evil could be in a world ignorant to it."
+	},
+
+	new Book { 
+		BookId 	= 80,
+		Title  	= "The Hunger Games",
+		GenreId = "actionandadventure"
+		Price	= 66.76,
+		Image   = "~/images/80-The-Hunger-Games.jpg",
+		Summary = "The Hunger Games follows the story of young Katniss Everdeen who takes part in the dystopian battle royale in a post-apocalyptic nation."
+	},
+
+	new Book { 
+		BookId 	= 81,
+		Title  	= "If I Stay",
+		GenreId = "teenandyoungadult"
+		Price	= 53.99,
+		Image   = "~/images/81-If-I-Stay.jpg",
+		Summary = "If I Stay is a 2009 young adult fiction novel written by American writer Gayle Forman. The book centers around 17-year-old Mia, who after a tragic event involving her entire family, has to make a choice, a choice that will decide whether she accepts her fate and move on with life or not."
+	},
+
+	new Book { 
+		BookId 	= 82,
+		Title  	= "The Outsiders",
+		GenreId = "comingofage"
+		Price	= 55.66,
+		Image   = "~/images/82-The-Outsiders.jpg",
+		Summary = "The Outsiders is an excellent, coming-of-age novel that features the story of teenage rebellion. It was written when the author was only 17 years old, and it is one of the first iconic, outspoken, original books from Penguin."
+	},
+
+	new Book { 
+		BookId 	= 83,
+		Title  	= "Paper Towns",
+		GenreId = "romance"
+		Price	= 78.90,
+		Image   = "~/images/83-Paper-Towns.jpg",
+		Summary = "Paper Towns is the fourth novel by author John Green. The book tells the story of a young man chasing the girl he is fascinated with across the US following clues."
+	},
+
+	new Book { 
+		BookId 	= 84,
+		Title  	= "A Christmas Carol",
+		GenreId = "novella"
+		Price	= 66.90,
+		Image   = "~/images/84-A-Christmas-Carol.jpg",
+		Summary = "A Christmas Carol is one of Charles Dickens most beloved and commonly adapted pieces. Classed as a novella due to its size, it is separated into five parts."
+	},
+
+	new Book { 
+		BookId 	= 85,
+		Title  	= "Lord of the Flies",
+		GenreId = "comingofage"
+		Price	= 66.90,
+		Image   = "~/images/85-Lord-of-the-Flies.jpg",
+		Summary = "Lord of the Flies is a hard novel to categorize and falls into several genres. It is allegorical and full of symbolism."
+	},
+
+	new Book { 
+		BookId 	= 86,
+		Title  	= "Romeo and Juliet",
+		GenreId = "drama"
+		Price	= 44.55,
+		Image   = "~/images/86-Romeo-and-Juliet.jpg",
+		Summary = "Romeo and Juliet is arguably one of the most famous plays of all time by one of the greatest writers, from the iconic storyline to using ground-breaking ideas."
+	},
+
+	new Book { 
+		BookId 	= 87,
+		Title  	= "It",
+		GenreId = "comingofage"
+		Price	= 55.66,
+		Image   = "~/images/87-It.jpg",
+		Summary = "It is a horror story that follows the lives of seven children fighting an evil entity so powerful and old as the universe itself."
+	},
+
+	new Book { 
+		BookId 	= 88,
+		Title  	= "Lolita",
+		GenreId = "literaryfiction"
+		Price	= 39.99,
+		Image   = "~/images/88-Lolita.jpg",
+		Summary = "Vladimir Nabokovs Lolita is set between the late 1940s and early 1950s United States. It is a narration by the fictional character Humbert Humbert who is a pedophile."
+	},
+
+	new Book { 
+		BookId 	= 89,
+		Title  	= "How to Win Friends and Influence People",
+		GenreId = "selfhelp"
+		Price	= 66.76,
+		Image   = "~/images/89-How-to-Win-Friends-and-Influence-People.jpg",
+		Summary = "How to Win Friends and Influence People is the most famous work of Dale Carnegie, published in 1936 in the USA. It is a non-fictional book that became an internationally bestselling book, and it is still recommended and read widely to this day."
+	},
+
+	new Book { 
+		BookId 	= 90,
+		Title  	= "Coraline",
+		GenreId = "children"
+		Price	= 66.76,
+		Image   = "~/images/90-Coraline.jpg",
+		Summary = "Coraline, by Neil Gaiman, is a popular childrens fantasy novella that follows the story of young Coraline as she goes on an adventure to rescue her parents from the clutches of the evil Other Mother."
+	},
+
+	new Book { 
+		BookId 	= 91,
+		Title  	= "A Clockwork Orange",
+		GenreId = "crimefiction"
+		Price	= 53.99,
+		Image   = "~/images/91-A-Clockwork-Orange.jpg",
+		Summary = "A Clockwork Orange by Anthony Burgess is the authors best-known work of fiction."
+	},
+
+	new Book { 
+		BookId 	= 92,
+		Title  	= "Harry Potter and the Philosophers Stone",
+		GenreId = "children"
+		Price	= 55.66,
+		Image   = "~/images/92-Harry-Potter-and-the-Philosophers-Stone.jpg",
+		Summary = "Harry Potter and the Philosophers Stone by J. K. Rowling works as an introduction to the world of magic for Harry Potter."
+	},
+
+	new Book { 
+		BookId 	= 93,
+		Title  	= "After",
+		GenreId = "romance"
+		Price	= 78.90,
+		Image   = "~/images/93-After.jpg",
+		Summary = "Anna Todds After is a young adult romance novel that combines the emotionality of hate-romance and the strive to love a person with cold affection and a haunted past."
+	},
+
+	new Book { 
+		BookId 	= 94,
+		Title  	= "Treasure Island",
+		GenreId = "children"
+		Price	= 66.90,
+		Image   = "~/images/94-Treasure-Island.jpg",
+		Summary = "Treasure Island, also sometimes referred to as The Sea Cook, is one of Robert Louis Stevensons most recognized books. The adventure novel encompasses pirates, buried treasure, into an action-packed setting."
+	},
+
+	new Book { 
+		BookId 	= 95,
+		Title  	= "The Book Thief",
+		GenreId = "historicalfiction"
+		Price	= 66.90,
+		Image   = "~/images/95-The-Book-Thief.jpg",
+		Summary = "The most popular work of Markus Zusak, an Australian author, is called The Book Thief. It is a historical novel published in 2005, and the book became an international bestseller."
+	},
+
+	new Book { 
+		BookId 	= 96,
+		Title  	= "Rebecca",
+		GenreId = "detectiveandmystery"
+		Price	= 44.55,
+		Image   = "~/images/96-Rebecca.jpg",
+		Summary = "Rebecca tells the story of a young woman who marries a wealthy widower - only to be haunted by the memory of his ex-wife."
+	},
+
+	new Book { 
+		BookId 	= 97,
+		Title  	= "The Great Gatsby",
+		GenreId = "literaryfiction"
+		Price	= 55.66,
+		Image   = "~/images/97-The-Great-Gatsby.jpg",
+		Summary = "The Great Gatsby by F. Scott Fitzgerald is an unforgettable novel of wealth and love. It chronicles the "Jazz Age," post World War I in the United States."
+	},
+
+	new Book { 
+		BookId 	= 98,
+		Title  	= "Slaughterhouse Five",
+		GenreId = "historicalfiction"
+		Price	= 39.99,
+		Image   = "~/images/98-Slaughterhouse-Five.jpg",
+		Summary = "Slaughterhouse-Five by Kurt Vonnegut is one of the most popular anti-war novels ever written. It uses science fiction, satire, and humor to convey the absurdity of war and its impacts."
+	},
+
+	new Book { 
+		BookId 	= 99,
+		Title  	= "Animal Farm",
+		GenreId = "dystopian"
+		Price	= 49.99,
+		Image   = "~/images/99-Animal-Farm.jpg",
+		Summary = "George Orwells Animal Farm, often misunderstood to be Childrens Literature, is a political satire on Stalin Russia. The novel projects how the people of Russia fall prey to a totalitarian regime when they were dreaming of a more free country of equality for all."
+	},
+
+	new Book { 
+		BookId 	= 100,
+		Title  	= "The Hobbit",
+		GenreId = "children"
+		Price	= 66.76,
+		Image   = "~/images/100-The-Hobbit.jpg",
+		Summary = "The Hobbit tells the story of Bilbo Baggins adventures alongside a group of dwarves as they quest to take back their kingdom from the dragon Smaug."
+	},
+
+	new Book { 
+		BookId 	= 101,
+		Title  	= "Night",
+		GenreId = "autobiographyandmemoir"
+		Price	= 53.99
+		Image   = "~/images/101-Night.jpg",
+		Summary = "Night by Elie is an important memoir of the Holocaust, depicting the horrors and truth of Germanys treatment of European Jews."
+	},
+
+	new Book { 
+		BookId 	= 102,
+		Title  	= "The Giver",
+		GenreId = "dystopian"
+		Price	= 55.66,
+		Image   = "~/images/102-The-Giver.jpg",
+		Summary = "The Giver by Lois Lowry is a dystopian novel that explores what happens when a community gives up its memories, the positive and the negative."
+	},
+
+	new Book { 
+		BookId 	= 103,
+		Title  	= "Pride and Prejudice",
+		GenreId = "classic"
+		Price	= 78.90,
+		Image   = "~/images/103-Pride-and-Prejudice.jpg",
+		Summary = "Pride and Prejudice is a classical piece of Literature with a detailed description of characters, and their manners, in 19th century rural England."
+	},
+
+	new Book { 
+		BookId 	= 104,
+		Title  	= "The Handmaids Tale",
+		GenreId = "dystopian"
+		Price	= 66.90,
+		Image   = "~/images/104-The-Handmaids-Tale.jpg",
+		Summary = "The Handmaids Tale is a dystopian novel set in New England, in the new totalitarian state, Gilead. The novel depicts a society that uses religion to excuse the subjugation of women and those who fight back in a desperate attempt to regain their freedom."
+	},
+
+	new Book { 
+		BookId 	= 105,
+		Title  	= "The Catcher in the Rye",
+		GenreId = "comingofage"
+		Price	= 66.90,
+		Image   = "~/images/105-The-Catcher-in-the-Rye.jpg",
+		Summary = "The Catcher in the Rye by J.D. Salinger is a frame story that follows a period in the life of a young man named Holden Caulfield."
+	},
+
+	new Book { 
+		BookId 	= 106,
+		Title  	= "The Metamorphosis",
+		GenreId = "philosophicalfiction"
+		Price	= 44.55,
+		Image   = "~/images/106-The-Metamorphosis.jpg",
+		Summary = "The Metamorphosis was published in 1915 when Franz Kafka was only thirty-four years old. It is now considered to be his masterpiece and one of the most important examples of Existentialist literature."
+	},
+
+	new Book { 
+		BookId 	= 107,
+		Title  	= "The Stranger",
+		GenreId = "crimefiction"
+		Price	= 55.66,
+		Image   = "~/images/107-The-Stranger.jpg",
+		Summary = "Published in 1942, The Stranger is Camus most enduring literary achievement. It has baffled and troubled readers of all ages for decades as they try to contend with Meursaults approach to life, emotions, and consequences."
+	},
+
+	new Book { 
+		BookId 	= 108,
+		Title  	= "The Old Man and the Sea",
+		GenreId = "novella"
+		Price	= 39.99,
+		Image   = "~/images/108-The-Old-Man-and-the-Sea.jpg",
+		Summary = "The Old Man and the Sea is one of the most important books of 20th century American literature. The novella highlights the strength of its protagonists spirit and mirrors Hemingways own struggles at the time it was written."
+	}
+);

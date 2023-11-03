@@ -1,0 +1,135 @@
+﻿@model List<Product>
+
+@{
+
+        ViewBag.Title = ViewBag.Action;
+    // sets the selected menu into active 
+        string ActiveNavMenu(string action = "")
+        {
+        
+
+            //gets the current action
+            var currentAction = @ViewBag.Action;
+
+            /* ViewContext.RouteData.Values["id"].ToString();
+     */
+            return (action == currentAction ) ? "active" : "";
+        }
+}
+
+
+
+
+<h2 class="text-center my-2 text-decoration-underline"> @ViewBag.Action</h2>
+
+
+<div class="container-fluid ">
+
+    <div class="row justify-content-center">
+    <div class=" col-2">
+
+                <ul class="nav flex-column nav-pills gap-1 text-center">
+
+                        <li class="nav-item">
+                        <a class="@ActiveNavMenu("All Products") nav-link border border-2 border-primary"
+                           asp-controller="Product" asp-action="List"
+                                asp-route-id="all"
+                                  >
+                                All
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                        <a class="@ActiveNavMenu("Accessories") nav-link border border-2 border-primary"
+                           asp-controller="Product" asp-action="List"
+                           asp-route-id="accessories">
+                            Accessories
+                        </a>
+                        </li>
+
+                    <li class="nav-item">
+                        <a class="@ActiveNavMenu("Bikes") nav-link border border-2 border-primary"
+                           asp-controller="Product" asp-action="List"
+                           asp-route-id="bikes">
+                            Bikes
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="@ActiveNavMenu("Clothing") nav-link border border-2 border-primary"
+                           asp-controller="Product" asp-action="List"
+                           asp-route-id="clothing" >
+                            Clothing
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="@ActiveNavMenu("Components") nav-link border border-2 border-primary"
+                           asp-controller="Product" asp-action="List"
+                           asp-route-id="components">
+                            Components
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="@ActiveNavMenu("Car Racks") nav-link border border-2 border-primary"
+                           asp-controller="Product" asp-action="List"
+                           asp-route-id="car-racks">
+                            Car racks
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="@ActiveNavMenu("Wheels") nav-link border border-2 border-primary "
+                           asp-controller="Product" asp-action="List"
+                           asp-route-id="wheels">
+                            Wheels
+                        </a>
+                    </li>
+                </ul>
+                
+            
+    </div>
+
+        <div class="col-8 ">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(Product product in Model)
+                {
+                    <tr>
+                        <td>@product.Name</td>
+                        <td>@product.Price.ToString("c")</td>
+
+                        @* product View Details button   *@
+                            <td class="text-center text-primary">
+                            <a asp-controller="Product" asp-action="Details" class="btn myBTN"
+                            asp-route-id="@product.ProductID" >View Details</a>
+                        </td>
+
+                        @* product Add to cart button   *@
+                        <td class="text-center">
+                            <a asp-controller="Product" asp-action="Cart" class="btn myBTN"
+                               asp-route-id="@product.ProductID">Add To Cart</a>
+                        </td>
+                    </tr>
+            
+                }
+            </tbody>
+        </table>
+
+</div>
+
+    </div>
+</div>
+
+
+
+

@@ -1,0 +1,21 @@
+
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    font-size: 14px;
+    margin: 3em;
+}
+
+h1 {
+    
+}
+
+.result {
+    font-weight:Bold;
+    font-size:2em;
+}

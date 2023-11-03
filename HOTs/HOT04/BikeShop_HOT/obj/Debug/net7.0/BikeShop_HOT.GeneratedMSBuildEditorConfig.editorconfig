@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BikeShop_HOT
+build_property.RootNamespace = BikeShop_HOT
+build_property.ProjectDir = C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\HOTs\HOT04\BikeShop_HOT\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\HOTs\HOT04\BikeShop_HOT
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Areas/Admin/Views/Category/AddUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQWRkVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Areas/Admin/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Areas/Admin/Views/Category/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Areas/Admin/Views/Product/AddUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxBZGRVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Areas/Admin/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Areas/Admin/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Views/Product/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/HOTs/HOT04/BikeShop_HOT/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4sxdct44nl

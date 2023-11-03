@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Technician>
+
+@{
+    ViewBag.Title = "Technician Manager";
+}
+
+<h1>@ViewBag.Title</h1>
+
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(Technician technician in Model)
+        {
+            <tr>
+                <td>@technician.Name</td>
+                <td>@technician.Email</td>
+                <td>@technician.Phone</td>
+
+                @*Technician Edit button*@
+                <td>
+                    <a class="btn btn-primary" 
+                        asp-controller="Technician" asp-action="Edit"
+                        asp-route-id="@technician.TechnicianID" >
+                        Edit
+                    </a>
+                </td>
+
+                @*Technician Delete button*@
+                <td>
+                    <a class="btn btn-primary"
+                       asp-controller="Technician" asp-action="Delete"
+                       asp-route-id="@technician.TechnicianID">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+@*Technician Add button*@
+
+    <a class="btn btn-primary mt-3"
+       asp-controller="Technician" asp-action="Add">
+        Add Technician
+    </a>

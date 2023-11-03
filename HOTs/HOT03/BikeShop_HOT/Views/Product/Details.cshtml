@@ -1,0 +1,39 @@
+﻿@model Product
+
+@{
+    ViewBag.Title = "Product Details";
+}
+
+<h2 class="m-3">Product Details</h2>
+
+<div class="container">
+    <div class="row">
+    <div class="col-3">
+    
+        <img src="@Model.Image" alt="product image" asp-append-version="true">
+    </div>@* ~/content/images/Clear_Shade_85_T_Glasses.jpg *@
+    
+    <div class="col-8">
+        <h3>@Model.Name</h3>
+        <table class="table-striped table-bordered">
+            <tr>
+                <th class="p-2">List Price:</th>
+                <td class="p-2">@Model.Price.ToString("c")</td>
+            </tr>
+
+            <tr>
+                <th class="p-2">Category:</th>
+                <td class="p-2">@Model?.Category?.CategoryName</td>
+            </tr>
+
+            <tr>
+                <th class="p-2">Description:</th>
+                <td class="p-2">@Model?.Description</td>
+            </tr>
+        </table>
+        <a asp-controller="Product" asp-action="Cart" class="mt-3 btn myBTN"
+           asp-route-id="@Model?.ProductID">Add To Cart</a>
+    </div>
+  </div>
+</div>
+

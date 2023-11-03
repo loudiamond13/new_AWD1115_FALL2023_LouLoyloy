@@ -1,0 +1,14 @@
+﻿@model Product
+
+@{
+    ViewBag.Title = "Cart";
+}
+
+<div class="text-center">
+<h2 class="mb-5">Your Cart</h2>
+
+    <h4 class="mt-3">You Have Added <span class="text-primary text-decoration-underline">@Model.Name</span> To Your Cart!!</h4>
+<img class="mt-3 "  src="@Model.Image" asp-append-version="true" alt="Product Image">
+    <h6 class="mt-3">Price:  @Model.Price.ToString("c")</h6>
+
+</div>

@@ -1,0 +1,17 @@
+﻿@model Category
+@{
+    ViewBag.Title = "Delete Category";
+}
+
+<div class="jumbotron alert-danger mt-5 text-center">
+
+    <p>Are you sure you want to delete <span class="text-danger">"@Model.CategoryName"</span>?</p>
+
+    <form asp-controller="Category" asp-area="Admin" asp-action="Delete" method="post">
+        <input type="hidden" asp-for="CategoryName">
+
+        <button type="submit" class="btn btn-primary">Delete</button>
+        <a asp-controller="Category" asp-area="Admin" asp-action="List" class="btn btn-primary">Cancel</a>
+    </form>
+</div>
+

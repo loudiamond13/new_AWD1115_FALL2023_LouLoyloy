@@ -1,0 +1,58 @@
+﻿
+
+
+@{
+    ViewBag.Title = "Sales Order Application";
+}
+
+
+<div class="container-fluid mb-5">
+    <h1>SalesOrder Database Application</h1>
+    <p>A perpetual SQL Server database program</p>
+    <h1>Version01</h1>
+
+
+    @*Application Menu Grid*@
+    <div class="d-grid gap-1">
+        <div class=" p-2 bg-light border">
+            <a class="btn" asp-controller="Product" asp-action="List">
+                Manage Product
+             </a>
+        </div>
+
+        <div class=" p-2 bg-light border">
+            <a class="btn" asp-controller="Product" asp-action="ManageCategory">
+                Manage Category
+            </a>
+        </div>
+
+        <div class=" p-2 bg-light border">
+            <a class="btn" asp-controller="Product" asp-action="ManageVendor">
+                Manage Vendor
+            </a>
+        </div>
+
+        <div class=" p-2 bg-light border">
+            <a class="btn" asp-controller="Product" asp-action="ManageCustomer">
+                Manage Customer
+            </a>
+        </div>
+
+        <div class=" p-2 bg-light border">
+            <a class="btn" asp-controller="Product" asp-action="ManageEmployee">
+                Manage Employee
+            </a>
+        </div>
+
+        <div class=" p-2 bg-light border">
+            <a class="btn" asp-controller="Product" asp-action="ManageOrders">
+                Manage Orders
+            </a>
+        </div>
+
+
+
+        
+    </div>
+
+</div>

@@ -1,0 +1,525 @@
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\appsettings.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\SportsPro.staticwebassets.runtime.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\SportsPro.exe
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\SportsPro.deps.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\SportsPro.runtimeconfig.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfo.cs
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cs
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.build.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\scopedcss\bundle\SportsPro.styles.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\scopedcss\projectbundle\SportsPro.bundle.scp.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\refint\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.genruntimeconfig.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\ref\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Humanizer.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-1\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CopyComplete
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\appsettings.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\SportsPro.staticwebassets.runtime.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\SportsPro.exe
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\SportsPro.deps.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\SportsPro.runtimeconfig.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Humanizer.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfo.cs
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cs
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.build.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\scopedcss\bundle\SportsPro.styles.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\scopedcss\projectbundle\SportsPro.bundle.scp.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CopyComplete
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\refint\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\SportsPro.genruntimeconfig.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-2\SportsPro\obj\Debug\net7.0\ref\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\appsettings.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\SportsPro.staticwebassets.runtime.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\SportsPro.exe
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\SportsPro.deps.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\SportsPro.runtimeconfig.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Humanizer.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfo.cs
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cs
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.build.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\scopedcss\bundle\SportsPro.styles.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\scopedcss\projectbundle\SportsPro.bundle.scp.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CopyComplete
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\refint\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\SportsPro.genruntimeconfig.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-3\SportsPro\obj\Debug\net7.0\ref\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\appsettings.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.staticwebassets.runtime.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.exe
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.deps.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.runtimeconfig.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Humanizer.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfo.cs
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cs
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.build.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\scopedcss\bundle\SportsPro.styles.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\scopedcss\projectbundle\SportsPro.bundle.scp.css
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CopyComplete
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\refint\SportsPro.dll
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.genruntimeconfig.cache
+C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework\SportsPro_4-4\SportsPro\obj\Debug\net7.0\ref\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\appsettings.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.staticwebassets.runtime.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.exe
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.deps.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.runtimeconfig.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Humanizer.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfo.cs
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cs
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.build.SportsPro.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\scopedcss\bundle\SportsPro.styles.css
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\scopedcss\projectbundle\SportsPro.bundle.scp.css
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CopyComplete
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\refint\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\SportsPro.genruntimeconfig.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_4-4\SportsPro\obj\Debug\net7.0\ref\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\appsettings.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\SportsPro.staticwebassets.runtime.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\SportsPro.exe
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\SportsPro.deps.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\SportsPro.runtimeconfig.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Humanizer.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfo.cs
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cs
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.build.SportsPro.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\scopedcss\bundle\SportsPro.styles.css
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\scopedcss\projectbundle\SportsPro.bundle.scp.css
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CopyComplete
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\refint\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\SportsPro.genruntimeconfig.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_7-1\SportsPro\obj\Debug\net7.0\ref\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\appsettings.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\SportsPro.staticwebassets.runtime.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\SportsPro.exe
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\SportsPro.deps.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\SportsPro.runtimeconfig.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Humanizer.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.AssemblyInfo.cs
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.RazorAssemblyInfo.cs
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.build.SportsPro.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\scopedcss\bundle\SportsPro.styles.css
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\scopedcss\projectbundle\SportsPro.bundle.scp.css
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.csproj.CopyComplete
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\refint\SportsPro.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.pdb
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\SportsPro.genruntimeconfig.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_8-1\SportsPro\obj\Debug\net7.0\ref\SportsPro.dll

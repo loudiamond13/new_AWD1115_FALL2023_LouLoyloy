@@ -1,0 +1,147 @@
+new { BooksBookId = 1,   AuthorsAuthorId = 45 },
+new { BooksBookId = 2,   AuthorsAuthorId = 73 },
+new { BooksBookId = 3,   AuthorsAuthorId = 49 },
+new { BooksBookId = 4,   AuthorsAuthorId = 19 },
+new { BooksBookId = 5,   AuthorsAuthorId = 39 },
+new { BooksBookId = 6,   AuthorsAuthorId = 63 },
+new { BooksBookId = 7,   AuthorsAuthorId = 74 },
+new { BooksBookId = 8,   AuthorsAuthorId = 65 },
+new { BooksBookId = 9,   AuthorsAuthorId = 16 },
+new { BooksBookId = 10,  AuthorsAuthorId = 34 },
+new { BooksBookId = 11,  AuthorsAuthorId = 62 },
+new { BooksBookId = 12,  AuthorsAuthorId = 67 },
+new { BooksBookId = 13,  AuthorsAuthorId = 13 },
+new { BooksBookId = 14,  AuthorsAuthorId = 11 },
+new { BooksBookId = 15,  AuthorsAuthorId = 55 },
+new { BooksBookId = 16,  AuthorsAuthorId = 21 },
+new { BooksBookId = 17,  AuthorsAuthorId = 42 },
+new { BooksBookId = 18,  AuthorsAuthorId = 33 },
+new { BooksBookId = 19,  AuthorsAuthorId = 33 },
+new { BooksBookId = 20,  AuthorsAuthorId = 76 },
+new { BooksBookId = 21,  AuthorsAuthorId = 41 },
+new { BooksBookId = 22,  AuthorsAuthorId = 33 },
+new { BooksBookId = 23,  AuthorsAuthorId = 36 },
+new { BooksBookId = 24,  AuthorsAuthorId = 59 },
+new { BooksBookId = 25,  AuthorsAuthorId = 29 },
+new { BooksBookId = 26,  AuthorsAuthorId = 33 },
+new { BooksBookId = 27,  AuthorsAuthorId =  3 },
+new { BooksBookId = 28,  AuthorsAuthorId = 66 },
+new { BooksBookId = 29,  AuthorsAuthorId = 70 },
+new { BooksBookId = 30,  AuthorsAuthorId = 33 },
+new { BooksBookId = 31,  AuthorsAuthorId = 40 },
+new { BooksBookId = 32,  AuthorsAuthorId = 72 },
+new { BooksBookId = 33,  AuthorsAuthorId = 28 },
+new { BooksBookId = 34,  AuthorsAuthorId = 50 },
+new { BooksBookId = 35,  AuthorsAuthorId = 78 },
+new { BooksBookId = 36,  AuthorsAuthorId = 18 },
+new { BooksBookId = 37,  AuthorsAuthorId = 18 },
+new { BooksBookId = 38,  AuthorsAuthorId = 51 },
+new { BooksBookId = 39,  AuthorsAuthorId = 12 },
+new { BooksBookId = 40,  AuthorsAuthorId =  9 },
+new { BooksBookId = 41,  AuthorsAuthorId = 35 },
+new { BooksBookId = 42,  AuthorsAuthorId = 18 },
+new { BooksBookId = 43,  AuthorsAuthorId = 53 },
+new { BooksBookId = 44,  AuthorsAuthorId = 61 },
+new { BooksBookId = 45,  AuthorsAuthorId = 46 },
+new { BooksBookId = 46,  AuthorsAuthorId =  2 },
+new { BooksBookId = 47,  AuthorsAuthorId = 37 },
+new { BooksBookId = 48,  AuthorsAuthorId = 48 },
+new { BooksBookId = 49,  AuthorsAuthorId = 25 },
+new { BooksBookId = 50,  AuthorsAuthorId = 47 },
+new { BooksBookId = 51,  AuthorsAuthorId =  8 },
+new { BooksBookId = 52,  AuthorsAuthorId = 28 },
+new { BooksBookId = 53,  AuthorsAuthorId = 71 },
+new { BooksBookId = 54,  AuthorsAuthorId = 38 },
+new { BooksBookId = 55,  AuthorsAuthorId = 31 },
+new { BooksBookId = 56,  AuthorsAuthorId = 38 },
+new { BooksBookId = 57,  AuthorsAuthorId = 38 },
+new { BooksBookId = 58,  AuthorsAuthorId = 24 },
+new { BooksBookId = 59,  AuthorsAuthorId = 71 },
+new { BooksBookId = 60,  AuthorsAuthorId = 57 },
+new { BooksBookId = 61,  AuthorsAuthorId = 38 },
+new { BooksBookId = 62,  AuthorsAuthorId = 38 },
+new { BooksBookId = 63,  AuthorsAuthorId = 38 },
+new { BooksBookId = 64,  AuthorsAuthorId = 60 },
+new { BooksBookId = 65,  AuthorsAuthorId = 30 },
+new { BooksBookId = 66,  AuthorsAuthorId = 25 },
+new { BooksBookId = 67,  AuthorsAuthorId = 72 },
+new { BooksBookId = 68,  AuthorsAuthorId = 12 },
+new { BooksBookId = 69,  AuthorsAuthorId =  4 },
+new { BooksBookId = 70,  AuthorsAuthorId = 25 },
+new { BooksBookId = 71,  AuthorsAuthorId = 38 },
+new { BooksBookId = 72,  AuthorsAuthorId = 14 },
+new { BooksBookId = 73,  AuthorsAuthorId = 27 },
+new { BooksBookId = 74,  AuthorsAuthorId =  5 },
+new { BooksBookId = 75,  AuthorsAuthorId =  6 },
+new { BooksBookId = 76,  AuthorsAuthorId = 72 },
+new { BooksBookId = 77,  AuthorsAuthorId = 34 },
+new { BooksBookId = 78,  AuthorsAuthorId = 71 },
+new { BooksBookId = 79,  AuthorsAuthorId = 71 },
+new { BooksBookId = 80,  AuthorsAuthorId = 72 },
+new { BooksBookId = 81,  AuthorsAuthorId = 30 },
+new { BooksBookId = 82,  AuthorsAuthorId = 69 },
+new { BooksBookId = 83,  AuthorsAuthorId = 46 },
+new { BooksBookId = 84,  AuthorsAuthorId = 10 },
+new { BooksBookId = 85,  AuthorsAuthorId = 77 },
+new { BooksBookId = 86,  AuthorsAuthorId = 78 },
+new { BooksBookId = 87,  AuthorsAuthorId = 71 },
+new { BooksBookId = 88,  AuthorsAuthorId = 75 },
+new { BooksBookId = 89,  AuthorsAuthorId = 15 },
+new { BooksBookId = 90,  AuthorsAuthorId = 64 },
+new { BooksBookId = 91,  AuthorsAuthorId =  7 },
+new { BooksBookId = 92,  AuthorsAuthorId = 38 },
+new { BooksBookId = 93,  AuthorsAuthorId =  6 },
+new { BooksBookId = 94,  AuthorsAuthorId = 68 },
+new { BooksBookId = 95,  AuthorsAuthorId = 58 },
+new { BooksBookId = 96,  AuthorsAuthorId = 17 },
+new { BooksBookId = 97,  AuthorsAuthorId = 23 },
+new { BooksBookId = 98,  AuthorsAuthorId = 52 },
+new { BooksBookId = 99,  AuthorsAuthorId = 32 },
+new { BooksBookId = 100, AuthorsAuthorId = 39 },
+new { BooksBookId = 101, AuthorsAuthorId = 20 },
+new { BooksBookId = 102, AuthorsAuthorId = 54 },
+new { BooksBookId = 103, AuthorsAuthorId = 43 },
+new { BooksBookId = 104, AuthorsAuthorId = 56 },
+new { BooksBookId = 105, AuthorsAuthorId = 44 },
+new { BooksBookId = 106, AuthorsAuthorId = 26 },
+new { BooksBookId = 107, AuthorsAuthorId = 45 },
+new { BooksBookId = 108, AuthorsAuthorId = 22 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,52 @@
+﻿@using BikeShop_HOT.Models
+@model Product
+@{
+    ViewData["Title"] = ViewBag.Action + " Product - ";
+}
+
+<form class="mt-5" method="post" asp-controller="Product" asp-area="Admin" asp-action="AddUpdate">
+
+    <div class="form-group mt-2">
+        <label asp-for="Name"><strong>Product Name: </strong></label>
+        <input asp-for="Name" class="form-control"/>
+        <span class="text-danger" asp-validation-for="Name"></span>
+   </div>
+
+    <div class="form-group mt-2">
+        <label asp-for="Description"><strong>Description:</strong></label>
+        <textarea asp-for="Description" class="form-control"> </textarea>
+    </div>
+
+    <div class="form-group mt-2">
+        <label asp-for="Price"><strong>Price:</strong></label>
+        <input asp-for="Price" class="form-control" />
+        <span class="text-danger" asp-validation-for="Price"></span>
+    </div>
+
+    <div class="form-group mt-2">
+        <label asp-for="Qty"><strong>Quantity:</strong></label>
+        <input asp-for="Qty" class="form-control" />
+        <span class="text-danger" asp-validation-for="Qty"></span>
+    </div>
+
+    <div class="form-group mt-2">
+        <label asp-for="CategoryID"><strong>Category:</strong></label>
+       <select asp-for="CategoryID"
+                asp-items="@(new SelectList( ViewBag.Categories, "CategoryID","CategoryName",Model.CategoryID.ToString()))" class="form-control">
+
+            <option value="">Select A Category...</option> 
+          
+       </select>
+        <span class="text-danger" asp-validation-for="CategoryID"></span>
+    </div>
+
+    <div class="form-group mt-2">
+        <label asp-for="Image"><strong>Image URL:</strong></label>
+        <input asp-for="Image" class="form-control" />
+       
+    </div>
+
+    <input type="hidden" asp-for="ProductID" />
+    <button class="mt-2 btn btn-primary" type="submit">@ViewBag.Action</button>
+    <a class="mt-2 btn btn-primary" asp-area="Admin" asp-controller="Product" asp-action="List">Cancel</a>
+</form>

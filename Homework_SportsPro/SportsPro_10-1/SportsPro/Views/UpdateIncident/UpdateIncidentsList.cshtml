@@ -1,0 +1,49 @@
+﻿@using SportsPro.Models.ViewModels
+
+@model IncidentViewModel
+
+@{
+    ViewData["title"] = "Incidents List";
+}
+
+<h3>@Model.Technicians</h3><br>
+<h3>Assigned/Open Incidents</h3>
+<table class="table-striped table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Customer</th>
+            <th>Product</th>
+            <th>Date Opened</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model.Incidents)
+        {
+           
+            <tr>
+                
+                <td>@i.Title</td>
+                <td>@i.Customer?.FullName</td>
+                <td>@i.Product?.Name</td>
+                <td>@i.DateOpened</td>
+
+                <td>
+                    <a class="btn btn-primary" asp-controller="UpdateIncident"
+                       asp-action="Edit" asp-route-id="@i.IncidentID">
+                        Edit
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+<td>
+    <a class="btn btn-primary" asp-controller="UpdateIncident"
+       asp-action="SelectTech">
+        Switch Technician
+    </a>
+</td>

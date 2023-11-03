@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BikeShop_HOT.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BikeShop_HOT.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\AboutImage\\AboutBikeShopIMG.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\AboutImage\\AboutBikeShopIMG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\AboutImage\\AboutBikeShopIMGG.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\AboutImage\\AboutBikeShopIMGG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\AeroFlo_ATB_Wheels.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\AeroFlo_ATB_Wheels.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Clear_Shade_85_T_Glasses.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Clear_Shade_85_T_Glasses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Cosmic_Elite_Road_Warrior_Wheels.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Cosmic_Elite_Road_Warrior_Wheels.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Cycle_Doc_Pro_Repair_Stand.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Cycle_Doc_Pro_Repair_Stand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Dog_Ear_Aero_Flow_Floor_Pump.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Dog_Ear_Aero_Flow_Floor_Pump.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Dog_Ear_Cycle_Computer.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Dog_Ear_Cycle_Computer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Dog_Ear_Helmet_Mount_Mirror.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Dog_Ear_Helmet_Mount_Mirror.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Dog_Ear_Monster_Grip_Gloves.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Dog_Ear_Monster_Grip_Gloves.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Eagle_FS_3_Mountain_Bike.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Eagle_FS_3_Mountain_Bike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Eagle_SA_120_Clipless_Pedals.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Eagle_SA_120_Clipless_Pedals.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\GT_RTS_2_Mountain_Bike.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\GT_RTS_2_Mountain_Bike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Glide_O_Matic_Cycling_Helmet.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Glide_O_Matic_Cycling_Helmet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\HP_Deluxe_Panniers.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\HP_Deluxe_Panniers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\King_Cobra_Helmet.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\King_Cobra_Helmet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Kool_Breeze_Rocket_Top_Jersey.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Kool_Breeze_Rocket_Top_Jersey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Kryptonite_Advanced_2000_U_Lock.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Kryptonite_Advanced_2000_U_Lock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Nikoma_Lok_Tight_U_Lock.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Nikoma_Lok_Tight_U_Lock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\ProFormance_Toe_Klips_2G.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\ProFormance_Toe_Klips_2G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Pro_Sport_Dillo_Shades.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Pro_Sport_Dillo_Shades.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Proformance_ATB_All_Terrain_Pedal.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Proformance_ATB_All_Terrain_Pedal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Road_Warrior_Hitch_Pack.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Road_Warrior_Hitch_Pack.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Shinoman_105_SC_Brakes.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Shinoman_105_SC_Brakes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Shinoman_Deluxe_TX_30_Pedal.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Shinoman_Deluxe_TX_30_Pedal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Shinoman_Dura_Ace_Headset.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Shinoman_Dura_Ace_Headset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\StaDry_Cycling_Pants.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\StaDry_Cycling_Pants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\TransPort_Bicycle_Rack.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\TransPort_Bicycle_Rack.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Trek_9000_Mountain_Bike.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Trek_9000_Mountain_Bike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\True_Grip_Competition_Gloves.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\True_Grip_Competition_Gloves.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Turbo_Twin_Tires.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Turbo_Twin_Tires.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Ultimate_Export_2G_Car_Rack.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Ultimate_Export_2G_Car_Rack.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Ultra_2K_Competition_Tire.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Ultra_2K_Competition_Tire.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Ultra_Pro_Rain_Jacket.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Ultra_Pro_Rain_Jacket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Victoria_Pro_All_Weather_Tires.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Victoria_Pro_All_Weather_Tires.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Viscount_C_500_Wireless_Bike_Computer.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Viscount_C_500_Wireless_Bike_Computer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Viscount_CardioSport_Sport_Watch.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Viscount_CardioSport_Sport_Watch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Viscount_Microshell_Helmet.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Viscount_Microshell_Helmet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Viscount_Mountain_Bikes.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Viscount_Mountain_Bikes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Viscount_Tru_Beat_Heart_Transmitter.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Viscount_Tru_Beat_Heart_Transmitter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\Wonder_Wood_Cycle_Socks.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\Wonder_Wood_Cycle_Socks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\content\\images\\X_Pro_All_Weather_Tires.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\X_Pro_All_Weather_Tires.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\HOTs\\HOT03\\BikeShop_HOT\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BikeShop_HOT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BikeShop_HOT.props",
+      "PackagePath": "build\\BikeShop_HOT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BikeShop_HOT.props",
+      "PackagePath": "buildMultiTargeting\\BikeShop_HOT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BikeShop_HOT.props",
+      "PackagePath": "buildTransitive\\BikeShop_HOT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
