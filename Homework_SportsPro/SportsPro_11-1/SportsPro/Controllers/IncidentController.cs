@@ -12,7 +12,7 @@ namespace SportsPro.Controllers
 {
 	public class IncidentController : Controller
 	{
-		private SportsProContext spContext { get; set; }
+		private  SportsProContext spContext { get; set; }
 		private readonly IUnitOfWork unitOfWork;
 
 		public IncidentController(SportsProContext context, IUnitOfWork ctx)

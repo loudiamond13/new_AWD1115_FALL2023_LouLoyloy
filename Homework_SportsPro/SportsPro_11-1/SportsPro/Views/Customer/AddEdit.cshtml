@@ -84,13 +84,14 @@
         <label class="col-sm-3" asp-for="Email">Email</label>
         <div class="col">
             <input  class="form-control" asp-for="Email" />
+            <span class="text-danger" asp-validation-for="Email"></span>
         </div>
     </div>
 
     <div class="row mt-3 form-group">
         <label class="col-sm-3" asp-for="Phone">Phone</label>
         <div class="col">
-            <input placeholder="000-000-0000" class="form-control" asp-for="Phone" />
+            <input placeholder="(000) 000-0000" class="form-control" asp-for="Phone" />
             <span class="text-danger" asp-validation-for="Phone"></span>
         </div>
         

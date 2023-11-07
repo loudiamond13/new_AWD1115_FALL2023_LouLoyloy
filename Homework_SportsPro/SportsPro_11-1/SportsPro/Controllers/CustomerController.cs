@@ -48,20 +48,13 @@ namespace SportsPro.Controllers
         [HttpPost]
         public IActionResult AddEdit(Customer customer) 
         {
-            if (customer.Email == null)
+            if (customer.CustomerID == 0 && TempData["okEmail"] == null)
             {
-                customer.Email = "";
-            }
-            if (customer.Phone == null)
-            {
-                customer.Phone = "";
-            }
-
-            string message = Validate.CheckPhoneFormat(customer.Phone);
-            if (!string.IsNullOrEmpty(message))
-            {
-
-                ModelState.AddModelError(nameof(customer.Phone), message);
+                string message = Validate.CheckIfEmailExists(spContext, customer.Email);
+                if(!string.IsNullOrEmpty(message))
+                {
+                    ModelState.AddModelError(nameof(Customer.Email), message);
+                }
             }
 
             if (ModelState.IsValid)

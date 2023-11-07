@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using Microsoft.AspNetCore.Mvc;
 
 namespace SportsPro.Models
 {
@@ -10,44 +11,53 @@ namespace SportsPro.Models
 
 
 
-      
 
-       
+
+        [Required(ErrorMessage = "Please Enter A First Name.")]
         [Display(Name = "First Name")]
-        [StringLength(51, MinimumLength = 1, ErrorMessage = "Length must consist 1-25 character.")]
+        [StringLength(50)]
         public string FirstName { get; set; } = string.Empty;
 
-        [Required]
+        [Required(ErrorMessage = "Please Enter A Last Name.")]
         [Display(Name = "Last Name")]
+        [StringLength(50)]
         public string LastName { get; set; } = string.Empty;
 
-        [Required]
-        
+        [Required(ErrorMessage = "Please Enter The Address.")]
+        [StringLength(50)]
         public string Address { get; set; } = string.Empty;
 
-        [Required]
+        [Required(ErrorMessage = "Please Enter A City.")]
+        [StringLength(50)]
         public string City { get; set; } = string.Empty;
 
-        [Required]
+        [Required(ErrorMessage = "Please Enter A State.")]
+        [StringLength(50)]
         public string State { get; set; } = string.Empty;
 
-        [Required]
+        [Required(ErrorMessage = "Please Enter A Postal Code.")]
         [Display(Name = "Postal Code")]
+        [StringLength(20)]
         public string PostalCode { get; set; } = string.Empty;
 
-        [Required]
+        [Required(ErrorMessage = "Please Select A Country.")]
         [Display(Name = "Country")]
         public string CountryID { get; set; } = string.Empty;
 
-        //[ValidateNever]
+        [ValidateNever]
         public Country? Country { get; set; }
 
 
-        [ValidateNever]
+        [RegularExpression(@"^((\(\d{3}\) ?)|(\d{3}-))?\d{3}-\d{4}$",
+            ErrorMessage = "Phone Number Must Be In (000) 000-0000 Format.")]
         public string Phone { get; set; } = "";
 
-        [ValidateNever]
-        public string Email { get; set; } = "";
+
+        [Required(ErrorMessage = "Please Enter A Valid E-mail.")]
+        [StringLength(70)]
+        [DataType(DataType.EmailAddress)]
+        [Remote("ValidateEmail", "Validation", AdditionalFields = "CustomerID")]
+        public string? Email { get; set; }
 
 
 
