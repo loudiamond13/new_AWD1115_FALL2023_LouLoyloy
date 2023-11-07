@@ -12,13 +12,13 @@
 
 <form name="UpdateIncidentForm" class="needs-validation"  asp-controller="Incident" asp-action="UpdateIncidentsList" method="get" novalidate>
     <div class="form-group">
-        <select asp-for="Technician.TechnicianID" class="form-control" asp-items="@(new SelectList(@Model.Technicians , "TechnicianID", "Name"))">
+        <select asp-for="Technician.TechnicianID" class="form-control" asp-items="@(new SelectList(@Model.Technicians , "TechnicianID", "Name"))" required>
             <option value="">Select Technician...</option>
            
         </select>
 
-
-        <span class="invalid-feedback" asp-validation-for="@Model.Technician.TechnicianID"> Please Select A Technician</span>
+       @*  @Model.Technician.TechnicianID *@
+        <span class="invalid-feedback" asp-validation-for="Technician"> Please Select A Technician</span>
      
        
     </div>

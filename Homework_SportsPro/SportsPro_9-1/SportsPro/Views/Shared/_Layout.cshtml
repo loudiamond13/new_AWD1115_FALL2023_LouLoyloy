@@ -78,21 +78,20 @@
     <footer class="border-top footer text-muted">
         <div class="container">&copy; @DateTime.Now.Year - SportsPro</div>
     </footer>
+    <script>
+        var messageTimer = setTimeout(function () {
+            $('#customMessage').hide();
+        }, 5000)
 
+
+    </script>
    
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @*   script for the TempData[message] to hide the message in seconds *@
-    <script>
-        var messageTimer = setTimeout(function()
-        {
-            $('customMessage').hide();
-        }, 6500)
 
-
-    </script>
 
 
 

@@ -38,7 +38,8 @@ namespace SportsPro.Repositories
                 return SportsProContext.Incidents.Include(i => i.Technician)
                                                     .Include(i => i.Product)
                                                     .Include(i => i.Customer)
-                                                .Where(i => i.TechnicianID == id).ToList();       
+                                                .Where(i => i.TechnicianID == id && i.DateClosed == null)
+                                                .ToList();       
         }
 
        public IEnumerable<Incident> GetIncidentForUpdate(int id)

@@ -64,7 +64,7 @@ namespace SportsPro.Controllers
         [Route("update-incident/select-tech/")]
         public ViewResult TechniciansSelectList()
         {
-			var incidents = unitOfWork.Incidents.GetAll();
+			//var incidents = unitOfWork.Incidents.GetAll();
 
 			IncidentViewModel incidentViewModel = new IncidentViewModel()
 			{
@@ -84,17 +84,31 @@ namespace SportsPro.Controllers
 
 
 
-		[Route("/update-incident/list/id/{id?}")]
+		[Route("/update-incident/list/id/")]
 
 		[HttpGet]
         public ViewResult UpdateIncidentsList(Technician technician)
         {
-            
-			
-            vm.Incidents = unitOfWork.Incidents.GetIncidentsOfSelectedTech(technician.TechnicianID).ToList();
-            vm.Technician = unitOfWork.Technicians.GetByID(technician.TechnicianID);
 
-            return View("UpdateIncidentsList", vm);
+			IncidentViewModel incidentViewModel = new IncidentViewModel()
+			{
+                Incidents = unitOfWork.Incidents.GetIncidentsOfSelectedTech(technician.TechnicianID).ToList(),
+
+
+
+				Technician = unitOfWork.Technicians.GetByID(technician.TechnicianID)
+        };
+            
+
+			// if the selected technician has no open incident assigned, let the user know
+            if (incidentViewModel.Incidents.Count() == 0)
+            {
+				TempData["message"] = $"Technician {incidentViewModel.Technician.Name} Has No Open Incident.";
+				incidentViewModel.Technicians = unitOfWork.Technicians.GetAll().ToList(); 
+				return View("TechniciansSelectList", incidentViewModel);
+            }
+
+            return View("UpdateIncidentsList", incidentViewModel);
         }
 
 
