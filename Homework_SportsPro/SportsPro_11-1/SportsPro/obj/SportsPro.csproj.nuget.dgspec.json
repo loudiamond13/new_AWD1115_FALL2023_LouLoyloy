@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diamo\\Desktop\\LouProgramming\\AWD1115 praktis\\SportsPro_11-1\\SportsPro\\SportsPro.csproj": {}
+    "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\Homework_SportsPro\\SportsPro_11-1\\SportsPro\\SportsPro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diamo\\Desktop\\LouProgramming\\AWD1115 praktis\\SportsPro_11-1\\SportsPro\\SportsPro.csproj": {
+    "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\Homework_SportsPro\\SportsPro_11-1\\SportsPro\\SportsPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diamo\\Desktop\\LouProgramming\\AWD1115 praktis\\SportsPro_11-1\\SportsPro\\SportsPro.csproj",
+        "projectUniqueName": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\Homework_SportsPro\\SportsPro_11-1\\SportsPro\\SportsPro.csproj",
         "projectName": "SportsPro",
-        "projectPath": "C:\\Users\\diamo\\Desktop\\LouProgramming\\AWD1115 praktis\\SportsPro_11-1\\SportsPro\\SportsPro.csproj",
+        "projectPath": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\Homework_SportsPro\\SportsPro_11-1\\SportsPro\\SportsPro.csproj",
         "packagesPath": "C:\\Users\\diamo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diamo\\Desktop\\LouProgramming\\AWD1115 praktis\\SportsPro_11-1\\SportsPro\\obj\\",
+        "outputPath": "C:\\Users\\diamo\\Desktop\\AWD1115Fall2023Students-master\\AWD1115Fall2023Students-master\\AWD1115Fall2023LouLoyloy\\Homework_SportsPro\\SportsPro_11-1\\SportsPro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diamo\\AppData\\Roaming\\NuGet\\NuGet.Config",

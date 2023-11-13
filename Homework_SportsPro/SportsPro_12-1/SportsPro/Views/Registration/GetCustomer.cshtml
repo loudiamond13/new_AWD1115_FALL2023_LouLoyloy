@@ -1,0 +1,14 @@
+﻿@model Customer
+@{
+    ViewData["title"] = "Registrations";
+}
+
+<h1>Get Customer</h1>
+<form asp-action="List" method="post">
+    <select class="form-control" asp-for="CustomerID"
+                                asp-items="@(new SelectList(ViewBag.Customers, "CustomerID", "FullName", Model.CustomerID.ToString()))">
+                                <option value="0">Select A Customer...</option>
+    </select>
+    <input type="hidden" asp-for="CustomerID"></input>
+    <button type="submit" class="btn btn-primary mt-2">Select</button>
+</form>

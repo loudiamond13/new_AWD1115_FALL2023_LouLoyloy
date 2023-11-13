@@ -9,109 +9,109 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SportsPro
 build_property.RootNamespace = SportsPro
-build_property.ProjectDir = C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_11-1\SportsPro\
+build_property.ProjectDir = C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework_SportsPro\SportsPro_11-1\SportsPro\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\SportsPro_11-1\SportsPro
+build_property.MSBuildProjectDirectory = C:\Users\diamo\Desktop\AWD1115Fall2023Students-master\AWD1115Fall2023Students-master\AWD1115Fall2023LouLoyloy\Homework_SportsPro\SportsPro_11-1\SportsPro
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Customer/AddEdit.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Customer/AddEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Customer/Delete.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Customer/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Customer/List.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Customer/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Home/About.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Home/Index.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Home/Privacy.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Incident/AddEdit.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Incident/AddEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcQWRkRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Incident/Delete.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Incident/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Incident/List.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Incident/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Incident/TechniciansSelectList.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Incident/TechniciansSelectList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcVGVjaG5pY2lhbnNTZWxlY3RMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Incident/UpdateIncident.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Incident/UpdateIncident.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcVXBkYXRlSW5jaWRlbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Incident/UpdateIncidentsList.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Incident/UpdateIncidentsList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcVXBkYXRlSW5jaWRlbnRzTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Product/AddEdit.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Product/AddEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Product/Delete.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Product/List.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Product/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Shared/Error.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Technician/AddEdit.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Technician/AddEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxBZGRFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Technician/Delete.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Technician/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Technician/List.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Technician/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/UpdateIncident/Edit.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/UpdateIncident/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlSW5jaWRlbnRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/UpdateIncident/SelectTech.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/UpdateIncident/SelectTech.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlSW5jaWRlbnRcU2VsZWN0VGVjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/UpdateIncident/UpdateIncidentsList.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/UpdateIncident/UpdateIncidentsList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlSW5jaWRlbnRcVXBkYXRlSW5jaWRlbnRzTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/_ViewImports.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/_ViewStart.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diamo/Desktop/LouProgramming/AWD1115 praktis/SportsPro_11-1/SportsPro/Views/Shared/_Layout.cshtml]
+[C:/Users/diamo/Desktop/AWD1115Fall2023Students-master/AWD1115Fall2023Students-master/AWD1115Fall2023LouLoyloy/Homework_SportsPro/SportsPro_11-1/SportsPro/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-m8wkwk2ttb
