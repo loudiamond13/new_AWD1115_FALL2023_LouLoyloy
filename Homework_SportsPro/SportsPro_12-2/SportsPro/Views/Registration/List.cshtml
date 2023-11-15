@@ -1,0 +1,54 @@
+﻿@model SportsPro.Models.ViewModels.RegistrationViewModel
+@{
+    ViewData["title"] = "Registrations";
+}
+
+<h1>Customer: @Model.Customer.FullName</h1>
+<h1>Registrations</h1>
+
+@if (Model.Registrations?.Count() > 0)
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Registration reg in Model.Registrations)
+            {
+                <tr> 
+                    <td>@reg.Product?.Name</td> 
+                    <td> 
+                        <form asp-controller="Registration" asp-action="Delete" method="post">
+                            <input type="hidden" name="customerID" value="@reg.CustomerID" />
+                            <input type="hidden" name="productID" value="@reg.ProductID" />
+                            <button type="submit" class="btn btn-primary">Delete</button> 
+                        </form> 
+                     </td> 
+                 </tr>
+            }
+        </tbody>
+        
+      
+    </table>
+}else
+{
+    @* TempData["negativeMessage"] = "The Selected Customer Has No Registered Products."; *@
+    <p class="text-danger mb-5">The Selected Customer Has No Registered Products.</p>
+}
+
+                            
+<h1>Product</h1>
+<form asp-controller="Registration" asp-action="Register" method="post">
+    <div class="form-group">
+        <select class="form-control" asp-for="ProductID"
+                asp-items="@(new SelectList(Model.Products, "ProductID", "Name", 
+                                Model.ProductID.ToString()))">
+                <option value="0">Select A Product...</option>
+        </select>
+        <input type="hidden" asp-for="CustomerID"/>
+        <button type="submit" class="btn btn-primary mt-2">Register</button>
+    </div>
+</form>
