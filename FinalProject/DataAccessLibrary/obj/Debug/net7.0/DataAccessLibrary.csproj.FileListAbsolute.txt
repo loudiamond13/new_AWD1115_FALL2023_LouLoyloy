@@ -1,0 +1,14 @@
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.deps.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.runtimeconfig.json
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.pdb
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\obj\Debug\net7.0\refint\DataAccessLibrary.dll
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.pdb
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.genruntimeconfig.cache
+C:\Users\diamo\Desktop\LouProgramming\AWD1115 praktis\FinalProject\DataAccessLibrary\obj\Debug\net7.0\ref\DataAccessLibrary.dll

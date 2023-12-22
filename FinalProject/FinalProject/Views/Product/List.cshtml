@@ -1,0 +1,56 @@
+﻿@using DataAccessLibrary.Models;
+@model List<Product>
+
+@{
+    ViewData["title"] = "Products -";
+  
+}
+
+<div class="row justify-content-center">
+    <div class="col-2 mt-3">
+        <label class="form-label">Mens:</label>
+        <select class="form-select" 
+            asp-items="@(new SelectList(ViewBag.Categories,"CategoryID","CategoryName", ViewBag.Categories.ToString()))">
+
+            <option value="0">All</option>
+        </select>
+
+        <label class="form-label mt-3">Womens:</label>
+        <select class="form-select"
+                asp-items="@(new SelectList(ViewBag.Categories,"CategoryID","CategoryName", ViewBag.Categories.ToString()))">
+
+            <option value="0">All</option>
+        </select>
+    </div>
+
+    <div class="col-10">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            @foreach(Product prod in ViewBag.Products)
+            {
+               
+                    @* class="col-sm-4 mt-3 mb-3 mb-sm-0 w-25 h-25 " *@
+                 <div class="col-sm-4 mb-3 d-flex align-items-stretch text-dark "  >
+                    <a class="text-decoration-none text-dark" asp-controller="Product" asp-action="Details" asp-route-id="@prod.productID">
+
+                        <div class="card h-100">
+                            <img src="@prod.ProductImageURL" class="img-responsive card-img-top h-75" alt="..." asp-append-version="true">
+                
+              
+                            <div class="card-body">
+                                <h5 class="card-title text-uppercase">@prod.ProductName</h5>
+                   
+                                <p class="card-text text-truncate overflow-hidden">@prod.ProductDescription</p>
+                                <p class="">Color: @prod.ProductColor</p>
+                                
+                                <p class="card-text fs-5 text-dark fw-bold text-decoration-     
+                                          underline">@prod.ProductPrice.ToString("c")</p>
+                                <a  class="sticky-bottom bottom-0 btn btn-primary">Add to Cart</a>
+                            </div>
+                        </div>
+                    </a>
+                  </div>
+               
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,103 @@
+﻿@{
+    string? headerMessage = TempData["headerMessage"]?.ToString();
+    string? positiveMessage = TempData["positiveMessage"]?.ToString();
+     string? negativeMessage = TempData["negativeMessage"]?.ToString();
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]  Nohea's Apparel</title>
+    
+    <link rel="stylesheet" href="~/css/site.min.css" />
+    <link rel="stylesheet" href="~/css/custom.css"/>
+    <link rel="stylesheet" href="~/FinalProject.styles.css" asp-append-version="true" />
+</head>
+<body class="bg-light">
+    <header>
+        <nav class="navbar navbar-expand-sm text-white navbar-toggleable-sm bg-dark border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">Nohea's Apparel</a>
+
+                <button class="navbar-toggler border-0  navbarrr" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarr" aria-controls="navbarr"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <div class="animated-icon1"><span></span><span></span><span></span></div>
+                </button>
+
+                <div id="navbarr" class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" 
+                                asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Product"
+                                asp-action="List">Products</a>
+                        </li>
+
+
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" 
+                                asp-action="About">About</a>
+                        </li>
+                        
+                        @* @await Component.InvokeAsync("ShoppingCartSummary") *@
+                        <partial name="_LoginPartial" />
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @*custom header message*@
+            @if( !String.IsNullOrEmpty(headerMessage))
+            {
+                <h2 class="text-dark text-center p-2 my-1">@headerMessage.ToUpper()</h2>
+            }
+
+            @* For Positive message or positive/success alert message *@
+             @if (!String.IsNullOrEmpty(positiveMessage))
+            {
+                <h2 id="customMessage"
+                    class="alert text-center alert-success bg-gradient p-2 my-1">
+                    @positiveMessage.ToUpper()
+                </h2>
+            } 
+            @* For Negative message or negative alert message *@
+             @if (!String.IsNullOrEmpty(negativeMessage))
+            {
+                <h2 id="customMessage"
+                    class="alert text-center alert-danger bg-gradient p-2 my-1">
+                    @negativeMessage
+                </h2>
+            }
+            @RenderBody()
+        </main>
+    </div>
+    <br><br>
+    <footer class="border-top footer bg-primary text-muted text-center">
+        <div class="text-white container">
+            &copy; 2023 - Nohea's Apparel
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @*   script for the TempData messages to hide the message in seconds *@
+    <script>
+        var messageTimer = setTimeout(function () {
+
+            $('#customMessage').hide();
+        }, 5000)
+
+
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

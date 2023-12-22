@@ -1,0 +1,21 @@
+﻿
+
+
+
+
+@import"../lib/bootstrap/scss/_functions.scss";
+
+$white: #ffffff;
+
+$theme-colors: ( 
+    "light": #dbe5d0,
+    "dark": #2b3437, 
+    "primary": #3d5350, 
+    "secondary": #5bc195, 
+    "info": #f4c9d0, 
+    "success": #35bf5a, 
+    "warning": #f6ce2f, 
+    "danger": #fb1f42,
+    );
+@import"../lib/bootstrap/scss/bootstrap.scss";
+
